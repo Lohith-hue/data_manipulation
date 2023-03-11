@@ -1,0 +1,3263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="Osmosis 0.48.0">
+  <delete>
+    <node id="6324" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2488524" lon="106.9922069"/>
+    <node id="6325" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2496538" lon="106.9923547"/>
+    <node id="6326" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2494485" lon="106.9924003"/>
+    <node id="6327" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2493072" lon="106.9924298"/>
+    <node id="6328" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2492621" lon="106.9923831"/>
+    <node id="6329" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2486815" lon="106.9924101"/>
+    <node id="6330" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2486593" lon="106.9927543"/>
+    <node id="6331" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2486326" lon="106.9928187"/>
+    <node id="6332" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.248534" lon="106.9928482"/>
+    <node id="6333" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2484993" lon="106.9928402"/>
+    <node id="6334" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2484886" lon="106.9927892"/>
+    <node id="6335" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2484913" lon="106.992698"/>
+    <node id="6336" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2485073" lon="106.9925719"/>
+    <node id="6337" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2510989" lon="106.9936797">
+      <tag k="access" v="permissive"/>
+      <tag k="barrier" v="lift_gate"/>
+    </node>
+    <node id="6338" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2511726" lon="106.9936913"/>
+    <node id="6339" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2509096" lon="106.9936448"/>
+    <node id="6340" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2507176" lon="106.99361"/>
+    <node id="6341" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2488446" lon="106.9924928"/>
+    <node id="6342" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2488099" lon="106.9925411"/>
+    <node id="6343" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2487913" lon="106.9925947"/>
+    <node id="6344" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2487926" lon="106.9926631"/>
+    <node id="6345" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2489099" lon="106.9931245"/>
+    <node id="6346" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2487245" lon="106.9924036"/>
+    <node id="6347" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2487259" lon="106.9924875">
+      <tag k="access" v="permissive"/>
+      <tag k="barrier" v="lift_gate"/>
+    </node>
+    <node id="6348" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2485953" lon="106.9924231"/>
+    <node id="6349" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2492632" lon="106.9941786"/>
+    <node id="6350" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2492832" lon="106.9941504"/>
+    <node id="6351" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2494165" lon="106.9942886"/>
+    <node id="6352" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2491279" lon="106.9941015"/>
+    <node id="6353" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2488899" lon="106.9942805"/>
+    <node id="6354" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2488473" lon="106.9942738"/>
+    <node id="6355" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2488259" lon="106.9942537"/>
+    <node id="6356" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.248362" lon="106.9934128"/>
+    <node id="6357" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2485113" lon="106.9936837"/>
+    <node id="6358" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2493325" lon="106.9951348"/>
+    <node id="6359" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.250695" lon="106.9940257"/>
+    <node id="6360" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.250743" lon="106.9939828"/>
+    <node id="6361" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.250763" lon="106.9939479"/>
+    <node id="6362" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.250775" lon="106.9939332"/>
+    <node id="6363" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2505643" lon="106.9929086"/>
+    <node id="6364" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2500297" lon="106.9926578"/>
+    <node id="6365" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2499857" lon="106.9925881"/>
+    <node id="6366" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2499191" lon="106.9925143"/>
+    <node id="6367" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2492552" lon="106.9923004"/>
+    <node id="6368" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.2496618" lon="106.9923091"/>
+    <node id="6369" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400" lat="-6.248334" lon="106.9932599"/>
+    <node id="6388" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3408" lat="-6.3940921" lon="106.8277301">
+      <tag k="access" v="permissive"/>
+      <tag k="barrier" v="gate"/>
+    </node>
+    <node id="6389" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3408" lat="-6.3930511" lon="106.8279497"/>
+    <node id="6390" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3408" lat="-6.392719" lon="106.8276821"/>
+    <node id="6427" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3421" lat="-6.2805416" lon="107.0863473">
+      <tag k="access" v="no"/>
+      <tag k="barrier" v="jersey_barrier"/>
+    </node>
+    <node id="6684" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3599" lat="-6.3526882" lon="106.6841258"/>
+    <node id="6692" version="1" timestamp="2021-04-21T03:36:12Z" uid="5" user="iqnaul" changeset="3605" lat="-6.2959354" lon="106.6788559"/>
+    <node id="6749" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3633" lat="-6.5956416" lon="106.8042098">
+      <tag k="access" v="customers"/>
+      <tag k="barrier" v="gate"/>
+    </node>
+    <node id="6750" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3633" lat="-6.5931133" lon="106.7972528">
+      <tag k="access" v="no"/>
+      <tag k="barrier" v="gate"/>
+    </node>
+    <node id="6791" version="1" timestamp="2021-04-21T03:36:12Z" uid="4" user="yeni" changeset="3648" lat="-6.2143486" lon="106.9124544">
+      <tag k="barrier" v="bollard"/>
+      <tag k="bollard" v="fixed"/>
+      <tag k="motor_vehicle" v="no"/>
+    </node>
+    <node id="6809" version="1" timestamp="2021-04-21T03:36:12Z" uid="5" user="iqnaul" changeset="3696" lat="-6.3725143" lon="106.9536853">
+      <tag k="access" v="no"/>
+      <tag k="barrier" v="swing_gate"/>
+      <tag k="swing_gate:type" v="single"/>
+    </node>
+    <node id="6810" version="1" timestamp="2021-04-21T03:36:12Z" uid="7" user="efdewi" changeset="3698" lat="-6.3725076" lon="106.9530536"/>
+    <node id="6811" version="1" timestamp="2021-04-21T03:36:12Z" uid="7" user="efdewi" changeset="3698" lat="-6.3726689" lon="106.9530536"/>
+    <node id="6812" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3705" lat="-6.1863341" lon="106.7961806"/>
+    <node id="6813" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3705" lat="-6.1862408" lon="106.7962128"/>
+  </delete>
+  <modify>
+    <node id="506083879" version="3" timestamp="2019-08-16T04:32:03Z" lat="-6.2498803" lon="106.9919706"/>
+    <node id="1561414643" version="2" timestamp="2020-02-14T05:50:01Z" lat="-6.6029021" lon="106.7986672"/>
+    <node id="3470834496" version="4" timestamp="2018-03-21T06:46:17Z" lat="-6.2469522" lon="106.9929794"/>
+  </modify>
+  <create>
+    <node id="3675553164" version="2" timestamp="2018-02-26T05:53:26Z" lat="-6.3176992" lon="106.6755833"/>
+    <node id="3675553179" version="3" timestamp="2019-03-06T02:59:54Z" lat="-6.3166756" lon="106.6745487"/>
+  </create>
+  <modify>
+    <node id="3675553182" version="4" timestamp="2019-06-13T03:19:34Z" lat="-6.3171483" lon="106.6749139"/>
+    <node id="3793103126" version="1" timestamp="2015-10-19T18:25:52Z" lat="-6.599844" lon="106.7950489">
+      <tag k="barrier" v="entrance"/>
+    </node>
+  </modify>
+  <create>
+    <node id="4087342612" version="4" timestamp="2019-09-19T09:51:59Z" lat="-6.3929683" lon="106.827799"/>
+  </create>
+  <modify>
+    <node id="4117068193" version="1" timestamp="2016-04-12T16:43:43Z" lat="-6.2605008" lon="106.7431276"/>
+    <node id="4117068194" version="1" timestamp="2016-04-12T16:43:43Z" lat="-6.2603279" lon="106.7430979"/>
+    <node id="4117068197" version="1" timestamp="2016-04-12T16:43:43Z" lat="-6.2605888" lon="106.7432709"/>
+    <node id="4506073960" version="3" timestamp="2019-08-16T04:32:03Z" lat="-6.249655" lon="106.99202"/>
+    <node id="4506073961" version="1" timestamp="2016-11-17T10:20:38Z" lat="-6.2496957" lon="106.9923006"/>
+    <node id="4506073962" version="1" timestamp="2016-11-17T10:20:38Z" lat="-6.2488767" lon="106.992494"/>
+    <node id="4506073963" version="3" timestamp="2019-03-06T03:23:20Z" lat="-6.2493157" lon="106.9942603"/>
+    <node id="4506073964" version="1" timestamp="2016-11-17T10:20:38Z" lat="-6.2497342" lon="106.9941611"/>
+    <node id="4506073966" version="4" timestamp="2019-03-05T08:20:55Z" lat="-6.2507805" lon="106.9939766"/>
+    <node id="4506073967" version="3" timestamp="2018-04-26T01:46:40Z" lat="-6.2505572" lon="106.9928311"/>
+    <node id="4506073969" version="2" timestamp="2019-03-06T03:23:20Z" lat="-6.2487853" lon="106.9926119"/>
+    <node id="4506073970" version="2" timestamp="2019-03-06T03:23:20Z" lat="-6.2486895" lon="106.9929722"/>
+    <node id="4506073971" version="2" timestamp="2019-03-06T03:23:20Z" lat="-6.2483732" lon="106.9932648"/>
+    <node id="4506073972" version="1" timestamp="2016-11-17T10:20:38Z" lat="-6.2488383" lon="106.9943352"/>
+    <node id="4506073973" version="1" timestamp="2016-11-17T10:20:38Z" lat="-6.2491113" lon="106.9944435"/>
+    <node id="4506073974" version="1" timestamp="2016-11-17T10:20:38Z" lat="-6.2484716" lon="106.9931421"/>
+    <node id="4506073976" version="1" timestamp="2016-11-17T10:20:38Z" lat="-6.2486779" lon="106.9930338"/>
+    <node id="4506073977" version="2" timestamp="2019-03-06T03:23:20Z" lat="-6.248992" lon="106.9942666"/>
+    <node id="4506073978" version="2" timestamp="2018-04-23T02:59:11Z" lat="-6.2492934" lon="106.9942049"/>
+    <node id="4506073979" version="1" timestamp="2016-11-17T10:20:38Z" lat="-6.2498739" lon="106.9924577"/>
+    <node id="4506073981" version="2" timestamp="2019-03-06T03:23:20Z" lat="-6.2485805" lon="106.9924036"/>
+    <node id="4930067002" version="2" timestamp="2019-03-11T10:05:53Z" lat="-6.3080805" lon="106.849338"/>
+  </modify>
+  <create>
+    <node id="5063298429" version="2" timestamp="2019-03-11T10:05:53Z" lat="-6.3081355" lon="106.8489532"/>
+    <node id="5409109103" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.3726449" lon="106.9532911"/>
+    <node id="5409109104" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.3726209" lon="106.9532012"/>
+    <node id="5409109105" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.372597" lon="106.953177"/>
+  </create>
+  <modify>
+    <node id="5409109106" version="4" timestamp="2020-03-02T02:59:39Z" lat="-6.3725316" lon="106.9531219"/>
+  </modify>
+  <create>
+    <node id="5436639413" version="2" timestamp="2019-03-06T02:59:58Z" lat="-6.3176713" lon="106.6755994"/>
+    <node id="5436639414" version="2" timestamp="2019-03-06T02:59:58Z" lat="-6.317662" lon="106.6757267"/>
+    <node id="5436639415" version="3" timestamp="2019-06-13T03:19:34Z" lat="-6.3176841" lon="106.6758485"/>
+    <node id="5436641344" version="2" timestamp="2019-03-06T02:59:59Z" lat="-6.3171261" lon="106.6749354"/>
+  </create>
+  <modify>
+    <node id="5436641345" version="2" timestamp="2019-03-06T02:59:59Z" lat="-6.3170927" lon="106.6751446"/>
+    <node id="5466071442" version="3" timestamp="2018-03-21T06:46:17Z" lat="-6.246932" lon="106.9928395"/>
+    <node id="5466300123" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.3728022" lon="106.9516213"/>
+  </modify>
+  <create>
+    <node id="5466300614" version="3" timestamp="2020-03-02T09:08:34Z" lat="-6.3744212" lon="106.9543533"/>
+  </create>
+  <modify>
+    <node id="5466300615" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.3737298" lon="106.9536839"/>
+    <node id="5466300616" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.3734499" lon="106.9534385"/>
+    <node id="5466300618" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.3727263" lon="106.9520224"/>
+    <node id="5466300619" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.3728342" lon="106.9531945"/>
+  </modify>
+  <create>
+    <node id="5466300620" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.3726996" lon="106.9531301"/>
+  </create>
+  <modify>
+    <node id="5492770811" version="2" timestamp="2019-08-16T04:32:03Z" lat="-6.2467836" lon="106.9927168"/>
+    <node id="5572461937" version="2" timestamp="2018-04-26T01:46:41Z" lat="-6.2502551" lon="106.9927167"/>
+    <node id="5572461938" version="1" timestamp="2018-04-23T02:59:10Z" lat="-6.2501284" lon="106.9926739"/>
+    <node id="5572461939" version="2" timestamp="2018-04-26T01:46:41Z" lat="-6.2504843" lon="106.9927851"/>
+    <node id="5579504992" version="1" timestamp="2018-04-26T01:46:40Z" lat="-6.2499191" lon="106.9925143"/>
+    <node id="5636918387" version="1" timestamp="2018-05-23T09:08:21Z" lat="-6.2498101" lon="106.9953931"/>
+  </modify>
+  <create>
+    <node id="5650750603" version="3" timestamp="2020-03-02T02:59:39Z" lat="-6.3737514" lon="106.9537083"/>
+    <node id="5650751277" version="2" timestamp="2019-08-23T09:14:51Z" lat="-6.3745588" lon="106.9543326"/>
+  </create>
+  <modify>
+    <node id="6131802853" version="2" timestamp="2019-08-29T08:59:55Z" lat="-6.3105518" lon="106.8171822">
+      <tag k="barrier" v="lift_gate"/>
+      <tag k="name" v="Pintu Masuk Mobil Ragunan"/>
+    </node>
+    <node id="6131802854" version="2" timestamp="2019-08-29T08:59:55Z" lat="-6.3105989" lon="106.8171897">
+      <tag k="barrier" v="lift_gate"/>
+      <tag k="name" v="Pintu Masuk Mobil Ragunan"/>
+    </node>
+  </modify>
+  <create>
+    <node id="6310064635" version="2" timestamp="2019-06-14T05:25:46Z" lat="-6.2809877" lon="107.0882984"/>
+    <node id="6310064636" version="1" timestamp="2019-03-01T07:00:08Z" lat="-6.2812956" lon="107.0882388"/>
+  </create>
+  <modify>
+    <node id="6317691192" version="1" timestamp="2019-03-05T08:20:52Z" lat="-6.2493285" lon="106.9951898"/>
+    <node id="6317691193" version="1" timestamp="2019-03-05T08:20:52Z" lat="-6.2489712" lon="106.9944803"/>
+    <node id="6317691194" version="1" timestamp="2019-03-05T08:20:52Z" lat="-6.2488961" lon="106.9944637"/>
+    <node id="6317691195" version="1" timestamp="2019-03-05T08:20:52Z" lat="-6.2497738" lon="106.9953373"/>
+    <node id="6317691198" version="1" timestamp="2019-03-05T08:20:52Z" lat="-6.2508136" lon="106.9938594"/>
+    <node id="6320011361" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2493386" lon="106.9942685"/>
+    <node id="6320011362" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.249767" lon="106.9941751"/>
+  </modify>
+  <create>
+    <node id="6320011363" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2489712" lon="106.9942218"/>
+  </create>
+  <modify>
+    <node id="6320011364" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2487575" lon="106.9926392"/>
+    <node id="6320011365" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2491455" lon="106.994085"/>
+    <node id="6320011367" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2489792" lon="106.9941619"/>
+    <node id="6320011368" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2489174" lon="106.9942521"/>
+    <node id="6320011369" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2489434" lon="106.9942728"/>
+    <node id="6320011370" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2486918" lon="106.9928238"/>
+    <node id="6320011371" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2487199" lon="106.9926761"/>
+    <node id="6320011372" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2488371" lon="106.9925975"/>
+    <node id="6320011373" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2488845" lon="106.992582"/>
+    <node id="6320011904" version="1" timestamp="2019-03-06T03:23:18Z" lat="-6.2483902" lon="106.9932012"/>
+    <node id="6325349271" version="1" timestamp="2019-03-08T13:21:36Z" lat="-6.2605641" lon="106.7431909"/>
+  </modify>
+  <create>
+    <node id="6330522111" version="1" timestamp="2019-03-11T10:05:51Z" lat="-6.3081605" lon="106.8492629"/>
+    <node id="6330522112" version="1" timestamp="2019-03-11T10:05:51Z" lat="-6.3081478" lon="106.8493031"/>
+    <node id="6330522113" version="1" timestamp="2019-03-11T10:05:51Z" lat="-6.3081291" lon="106.8493313"/>
+  </create>
+  <modify>
+    <node id="6366750160" version="1" timestamp="2019-03-28T05:04:31Z" lat="-6.1863368" lon="106.7966782"/>
+  </modify>
+  <create>
+    <node id="6543841377" version="1" timestamp="2019-06-13T03:19:34Z" lat="-6.3171334" lon="106.6749199"/>
+    <node id="6543841383" version="1" timestamp="2019-06-13T03:19:34Z" lat="-6.3176832" lon="106.6755868"/>
+    <node id="6543841384" version="1" timestamp="2019-06-13T03:19:34Z" lat="-6.3176897" lon="106.6758554"/>
+    <node id="6543841393" version="1" timestamp="2019-06-13T03:19:34Z" lat="-6.3166622" lon="106.6745532"/>
+    <node id="6543841394" version="1" timestamp="2019-06-13T03:19:34Z" lat="-6.3166842" lon="106.6745317"/>
+  </create>
+  <modify>
+    <node id="6556600216" version="2" timestamp="2020-03-02T09:08:34Z" lat="-6.3744039" lon="106.9543468"/>
+    <node id="6556600217" version="2" timestamp="2020-03-02T09:08:34Z" lat="-6.3744495" lon="106.9543525"/>
+    <node id="6738252873" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3727835" lon="106.9517112"/>
+    <node id="6738252874" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3727502" lon="106.9518104"/>
+  </modify>
+  <create>
+    <node id="6738252882" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3726396" lon="106.9532441"/>
+  </create>
+  <modify>
+    <node id="6738252883" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3725822" lon="106.9531113"/>
+  </modify>
+  <create>
+    <node id="6738252884" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3726369" lon="106.95311"/>
+  </create>
+  <modify>
+    <node id="6738252885" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3728915" lon="106.953236"/>
+    <node id="6738252886" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3729407" lon="106.9532682"/>
+  </modify>
+  <create>
+    <node id="6738252887" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3730007" lon="106.9532896"/>
+    <node id="6738252888" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3730634" lon="106.9533071"/>
+  </create>
+  <modify>
+    <node id="6738252889" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3731287" lon="106.9533179"/>
+  </modify>
+  <create>
+    <node id="6738252890" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3732087" lon="106.9533406"/>
+  </create>
+  <modify>
+    <node id="6738252891" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3732887" lon="106.9533621"/>
+  </modify>
+  <create>
+    <node id="6738252892" version="2" timestamp="2020-03-02T02:59:39Z" lat="-6.3733607" lon="106.9533889"/>
+  </create>
+  <modify>
+    <node id="6738252893" version="3" timestamp="2020-03-02T09:08:34Z" lat="-6.374053" lon="106.9540025"/>
+    <node id="6755599845" version="1" timestamp="2019-08-29T08:59:55Z" lat="-6.314832" lon="106.8176222"/>
+    <node id="6824529228" version="2" timestamp="2021-01-14T04:21:08Z" uid="7" user="efdewi" changeset="2477" lat="-6.3946553" lon="106.8327692">
+      <tag k="access" v="permissive"/>
+      <tag k="barrier" v="gate"/>
+      <tag k="foot" v="yes"/>
+      <tag k="motorcar" v="no"/>
+      <tag k="motorcycle" v="no"/>
+    </node>
+    <node id="6953434198" version="2" timestamp="2020-02-18T04:23:22Z" lat="-6.6029268" lon="106.7984008"/>
+    <node id="7061198866" version="1" timestamp="2019-12-16T17:42:38Z" lat="-6.5956849" lon="106.7942581">
+      <tag k="barrier" v="jersey_barrier"/>
+    </node>
+  </modify>
+  <create>
+    <node id="7061576434" version="1" timestamp="2019-12-16T20:50:22Z" lat="-6.3012062" lon="106.7033225">
+      <tag k="barrier" v="block"/>
+    </node>
+    <node id="7061576435" version="1" timestamp="2019-12-16T20:50:22Z" lat="-6.3035296" lon="106.6993327">
+      <tag k="barrier" v="block"/>
+    </node>
+  </create>
+  <modify>
+    <node id="7062073988" version="1" timestamp="2019-12-17T00:39:22Z" lat="-6.2982723" lon="106.6753008">
+      <tag k="access" v="private"/>
+      <tag k="barrier" v="lift_gate"/>
+    </node>
+    <node id="7062073989" version="1" timestamp="2019-12-17T00:39:22Z" lat="-6.2985143" lon="106.6751996">
+      <tag k="access" v="private"/>
+      <tag k="barrier" v="lift_gate"/>
+    </node>
+    <node id="7089466882" version="2" timestamp="2020-12-16T10:19:38Z" uid="9" user="yuri" changeset="2192" lat="-6.1863366" lon="106.7966319">
+      <tag k="access" v="permissive"/>
+      <tag k="barrier" v="lift_gate"/>
+    </node>
+  </modify>
+  <create>
+    <node id="7139674270" version="1" timestamp="2020-01-17T17:03:30Z" lat="-6.3204331" lon="106.7309466"/>
+    <node id="7139674271" version="1" timestamp="2020-01-17T17:03:30Z" lat="-6.3199486" lon="106.7305154"/>
+    <node id="7139711929" version="1" timestamp="2020-01-17T17:03:29Z" lat="-6.3251184" lon="106.7335758"/>
+    <node id="7139711931" version="1" timestamp="2020-01-17T17:03:29Z" lat="-6.3242073" lon="106.7332426"/>
+    <node id="7139711932" version="1" timestamp="2020-01-17T17:03:29Z" lat="-6.3232123" lon="106.7327618"/>
+    <node id="7139711933" version="1" timestamp="2020-01-17T17:03:29Z" lat="-6.3227964" lon="106.7325459"/>
+    <node id="7139711934" version="1" timestamp="2020-01-17T17:03:29Z" lat="-6.3223919" lon="106.7323507"/>
+    <node id="7139711935" version="1" timestamp="2020-01-17T17:03:29Z" lat="-6.3220026" lon="106.7320892"/>
+    <node id="7139711936" version="1" timestamp="2020-01-17T17:03:29Z" lat="-6.3216827" lon="106.7318941"/>
+    <node id="7139711937" version="1" timestamp="2020-01-17T17:03:29Z" lat="-6.3213448" lon="106.7316581"/>
+    <node id="7139711938" version="1" timestamp="2020-01-17T17:03:29Z" lat="-6.320857" lon="106.7313188"/>
+  </create>
+  <modify>
+    <node id="7257371545" version="1" timestamp="2020-03-02T09:08:34Z" lat="-6.3743875" lon="106.9543324"/>
+  </modify>
+  <delete>
+    <way id="4046" version="1" timestamp="2021-04-21T03:36:12Z" uid="4" user="yeni" changeset="3395">
+      <nd ref="6994033994"/>
+      <nd ref="6994005781"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="highway" v="motorway_link"/>
+      <tag k="layer" v="1"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="4056" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="6320011373"/>
+      <nd ref="6328"/>
+      <nd ref="6368"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="service" v="parking_aisle"/>
+    </way>
+    <way id="4057" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="6324"/>
+      <nd ref="4506073962"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="4058" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="6367"/>
+      <nd ref="6328"/>
+      <nd ref="6327"/>
+      <nd ref="6326"/>
+      <nd ref="6325"/>
+      <nd ref="6368"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="4059" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="4506073981"/>
+      <nd ref="6336"/>
+      <nd ref="6335"/>
+      <nd ref="6334"/>
+      <nd ref="6333"/>
+      <nd ref="6332"/>
+      <nd ref="6331"/>
+      <nd ref="6330"/>
+      <nd ref="6329"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="4060" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="6340"/>
+      <nd ref="6339"/>
+      <nd ref="6337"/>
+      <nd ref="6338"/>
+      <tag k="highway" v="service"/>
+      <tag k="motorcar" v="no"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="4061" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="4506073965"/>
+      <nd ref="6359"/>
+      <nd ref="6360"/>
+      <nd ref="6361"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="4062" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="4506073962"/>
+      <nd ref="6320011373"/>
+      <nd ref="4506073978"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="no"/>
+    </way>
+    <way id="4063" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="6320011369"/>
+      <nd ref="4506073977"/>
+      <nd ref="6349"/>
+      <nd ref="6350"/>
+      <nd ref="4506073978"/>
+      <tag k="highway" v="service"/>
+      <tag k="service" v="parking_aisle"/>
+    </way>
+    <way id="4064" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="6320011369"/>
+      <nd ref="4506073972"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="service" v="parking_aisle"/>
+    </way>
+    <way id="4065" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="4506073972"/>
+      <nd ref="6317691194"/>
+      <nd ref="6317691193"/>
+      <nd ref="4506073973"/>
+      <nd ref="4506073965"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="service" v="parking_aisle"/>
+    </way>
+    <way id="4066" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="4506073972"/>
+      <nd ref="4506073963"/>
+      <nd ref="6320011361"/>
+      <nd ref="6351"/>
+      <nd ref="4506073964"/>
+      <nd ref="6320011362"/>
+      <nd ref="6361"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="no"/>
+    </way>
+    <way id="4067" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="4506073962"/>
+      <nd ref="6367"/>
+      <nd ref="4506073961"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="4068" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="579472849"/>
+      <nd ref="579472844"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="no"/>
+    </way>
+    <way id="4069" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <nd ref="3257395607"/>
+      <nd ref="6745049918"/>
+      <nd ref="6745049917"/>
+      <nd ref="3257395605"/>
+      <nd ref="6320011899"/>
+      <nd ref="3257395599"/>
+      <tag k="highway" v="residential"/>
+      <tag k="name" v="Kemakmuran"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="4071" version="1" timestamp="2021-04-21T03:36:12Z" uid="4" user="yeni" changeset="3402">
+      <nd ref="6994034194"/>
+      <nd ref="6994034004"/>
+      <tag k="highway" v="motorway"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="4072" version="1" timestamp="2021-04-21T03:36:12Z" uid="4" user="yeni" changeset="3402">
+      <nd ref="6994034054"/>
+      <nd ref="6994034095"/>
+      <tag k="highway" v="motorway"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="4079" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3408">
+      <nd ref="5492659213"/>
+      <nd ref="926622363"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="4095" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3418">
+      <nd ref="2060094020"/>
+      <nd ref="2060094019"/>
+      <nd ref="5474615720"/>
+      <nd ref="2060094016"/>
+      <nd ref="5474615742"/>
+      <nd ref="319439408"/>
+      <nd ref="6337573846"/>
+      <nd ref="5001342135"/>
+      <nd ref="6337573845"/>
+      <nd ref="5001342134"/>
+      <tag k="access" v="private"/>
+      <tag k="highway" v="service"/>
+    </way>
+    <way id="4096" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3418">
+      <nd ref="2060094021"/>
+      <nd ref="5001342134"/>
+      <tag k="access" v="private"/>
+      <tag k="highway" v="service"/>
+    </way>
+    <way id="4191" version="2" timestamp="2021-04-21T03:36:12Z" uid="7" user="efdewi" changeset="3584">
+      <nd ref="2429963204"/>
+      <nd ref="678397387"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="motorcar" v="no"/>
+    </way>
+    <way id="4192" version="1" timestamp="2021-04-21T03:36:12Z" uid="7" user="efdewi" changeset="3584">
+      <nd ref="4822500417"/>
+      <nd ref="4822500416"/>
+      <nd ref="4822500415"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcar" v="no"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Puter I"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="4231" version="1" timestamp="2021-04-21T03:36:12Z" uid="4" user="yeni" changeset="3656">
+      <nd ref="5436639621"/>
+      <nd ref="5436639412"/>
+      <nd ref="5436639418"/>
+      <nd ref="5436639417"/>
+      <nd ref="6319989544"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="4232" version="1" timestamp="2021-04-21T03:36:12Z" uid="4" user="yeni" changeset="3656">
+      <nd ref="3675553178"/>
+      <nd ref="3675553180"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="4246" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3705">
+      <nd ref="6813"/>
+      <nd ref="7089466882"/>
+      <tag k="access" v="permissive"/>
+      <tag k="highway" v="residential"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+  </delete>
+  <modify>
+    <way id="18577339" version="16" timestamp="2019-06-14T08:39:03Z">
+      <nd ref="191578852"/>
+      <nd ref="6456809653"/>
+      <nd ref="6456809654"/>
+      <nd ref="4798376925"/>
+      <nd ref="4798376919"/>
+      <nd ref="4338794103"/>
+      <nd ref="4798376839"/>
+      <nd ref="4798376850"/>
+      <nd ref="4798376838"/>
+      <nd ref="4798376832"/>
+      <nd ref="3697659049"/>
+      <nd ref="191578919"/>
+      <nd ref="6546973948"/>
+      <nd ref="191578939"/>
+      <nd ref="6546973947"/>
+      <nd ref="191578964"/>
+      <nd ref="191578995"/>
+      <tag k="highway" v="residential"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Kebun Sirih Timur Dalam"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="4"/>
+    </way>
+    <way id="28801011" version="9" timestamp="2019-12-30T18:52:36Z">
+      <nd ref="191406968"/>
+      <nd ref="191407061"/>
+      <nd ref="5374527160"/>
+      <nd ref="191407033"/>
+      <tag k="highway" v="residential"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Srikaya I"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="5"/>
+    </way>
+    <way id="31469967" version="7" timestamp="2019-10-07T17:32:29Z">
+      <nd ref="351582045"/>
+      <nd ref="6858572436"/>
+      <nd ref="4822370190"/>
+      <nd ref="4822370203"/>
+      <nd ref="4822370207"/>
+      <nd ref="4822370215"/>
+      <nd ref="4822370217"/>
+      <nd ref="4840871937"/>
+      <nd ref="4822370330"/>
+      <nd ref="4822370333"/>
+      <nd ref="4822370338"/>
+      <nd ref="4822370340"/>
+      <nd ref="4822370343"/>
+      <nd ref="4822370347"/>
+      <nd ref="4822370348"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Barkah III"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="32224003" version="9" timestamp="2020-01-03T16:01:13Z">
+      <nd ref="361353352"/>
+      <nd ref="6333016636"/>
+      <nd ref="6333016635"/>
+      <nd ref="6333016637"/>
+      <nd ref="5492557466"/>
+      <nd ref="361353354"/>
+      <nd ref="6621692601"/>
+      <nd ref="361353356"/>
+      <nd ref="5492557803"/>
+      <nd ref="4821787645"/>
+      <nd ref="5492557806"/>
+      <nd ref="361353357"/>
+      <nd ref="6333016786"/>
+      <nd ref="6333016787"/>
+      <nd ref="4821787644"/>
+      <nd ref="5492557805"/>
+      <nd ref="361353359"/>
+      <nd ref="6333016785"/>
+      <nd ref="5492557812"/>
+      <nd ref="5492557767"/>
+      <nd ref="361353447"/>
+      <nd ref="6333016809"/>
+      <nd ref="361353361"/>
+      <nd ref="5492557948"/>
+      <nd ref="361353362"/>
+      <tag k="highway" v="residential"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Jalan Warung Jati Timur II"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="4"/>
+    </way>
+    <way id="77780126" version="2" timestamp="2013-06-21T09:46:43Z">
+      <nd ref="914747767"/>
+      <nd ref="914747690"/>
+      <nd ref="2354568977"/>
+      <nd ref="914747900"/>
+      <nd ref="914747902"/>
+      <nd ref="914747903"/>
+      <nd ref="914747904"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="79365462" version="4" timestamp="2018-03-21T05:24:52Z">
+      <nd ref="926622361"/>
+      <nd ref="5492659213"/>
+      <nd ref="4087342612"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="79365464" version="2" timestamp="2011-01-26T14:26:46Z">
+      <nd ref="926622364"/>
+      <nd ref="926622363"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="120191735" version="4" timestamp="2020-03-05T03:50:21Z">
+      <nd ref="1348207002"/>
+      <nd ref="1348206978"/>
+      <nd ref="1348207001"/>
+      <nd ref="1348206969"/>
+      <nd ref="1348206973"/>
+      <nd ref="1348206980"/>
+      <nd ref="5572461939"/>
+      <nd ref="1348206977"/>
+      <nd ref="1348206984"/>
+      <nd ref="5579504999"/>
+      <nd ref="5579504998"/>
+      <nd ref="5579504997"/>
+      <nd ref="5579504993"/>
+      <nd ref="1348206990"/>
+      <nd ref="5579504996"/>
+      <nd ref="5579504995"/>
+      <nd ref="5579504994"/>
+      <nd ref="1348206996"/>
+      <nd ref="5572461937"/>
+      <nd ref="1348206971"/>
+      <nd ref="1348206983"/>
+      <nd ref="5579504991"/>
+      <nd ref="1348206989"/>
+      <nd ref="5579504992"/>
+      <nd ref="1348206987"/>
+      <nd ref="1348206993"/>
+      <nd ref="1348207002"/>
+      <tag k="addr:city" v="Bekasi"/>
+      <tag k="addr:street" v="Jalan Ahmad Yani"/>
+      <tag k="building" v="yes"/>
+      <tag k="building:levels" v="5"/>
+      <tag k="building:roof" v="concrete"/>
+      <tag k="building:structure" v="confined_masonry"/>
+      <tag k="building:use" v="commercial"/>
+      <tag k="building:walls" v="brick"/>
+      <tag k="name" v="Mega Bekasi Hypermall"/>
+      <tag k="shop" v="mall"/>
+    </way>
+    <way id="154827507" version="9" timestamp="2019-12-30T17:58:08Z">
+      <nd ref="6292458884"/>
+      <nd ref="5091000091"/>
+      <nd ref="5023479997"/>
+      <nd ref="7071923235"/>
+      <nd ref="7096262322"/>
+      <nd ref="5023479998"/>
+      <nd ref="7096262323"/>
+      <nd ref="7096262324"/>
+      <nd ref="7096262320"/>
+      <nd ref="5023479999"/>
+      <nd ref="7096262321"/>
+      <nd ref="5023480000"/>
+      <nd ref="7096262319"/>
+      <nd ref="5091000094"/>
+      <nd ref="5023480001"/>
+      <nd ref="7071923249"/>
+      <nd ref="5023472901"/>
+      <nd ref="1672978312"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="bad"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="ground"/>
+      <tag k="width" v="1"/>
+    </way>
+  </modify>
+  <create>
+    <way id="157363235" version="7" timestamp="2019-07-30T10:35:59Z">
+      <nd ref="1695822315"/>
+      <nd ref="5063298429"/>
+      <nd ref="6330522111"/>
+      <nd ref="6330522112"/>
+      <nd ref="6330522113"/>
+      <nd ref="4930067002"/>
+      <tag k="highway" v="residential"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Teratai XI"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="5"/>
+    </way>
+  </create>
+  <modify>
+    <way id="157363487" version="6" timestamp="2019-10-16T05:13:14Z">
+      <nd ref="1695800281"/>
+      <nd ref="2861312929"/>
+      <nd ref="6330522103"/>
+      <nd ref="6330522104"/>
+      <nd ref="6330522105"/>
+      <nd ref="6330522106"/>
+      <nd ref="6330522107"/>
+      <nd ref="1695825273"/>
+      <nd ref="6330522108"/>
+      <nd ref="6330522109"/>
+      <nd ref="6330522110"/>
+      <nd ref="1695825274"/>
+      <nd ref="6330522128"/>
+      <nd ref="6330522129"/>
+      <nd ref="6330522130"/>
+      <nd ref="1695825275"/>
+      <nd ref="6330522132"/>
+      <nd ref="6330522131"/>
+      <nd ref="1695825276"/>
+      <nd ref="2861312930"/>
+      <nd ref="2861312931"/>
+      <nd ref="1695825279"/>
+      <nd ref="6330522133"/>
+      <nd ref="1695825280"/>
+      <nd ref="6330522134"/>
+      <nd ref="6330522135"/>
+      <nd ref="2861312935"/>
+      <nd ref="1695825281"/>
+      <nd ref="2861312938"/>
+      <nd ref="1695825282"/>
+      <nd ref="6330522136"/>
+      <nd ref="6330522137"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Masjid Nurul Islam"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="2"/>
+    </way>
+    <way id="158364692" version="9" timestamp="2019-11-26T02:27:35Z">
+      <nd ref="203510186"/>
+      <nd ref="203510188"/>
+      <nd ref="203509580"/>
+      <nd ref="1716014329"/>
+      <nd ref="6787291588"/>
+      <nd ref="6787291587"/>
+      <nd ref="937035667"/>
+      <nd ref="1827177914"/>
+      <nd ref="203507415"/>
+      <tag k="highway" v="service"/>
+    </way>
+    <way id="158465209" version="5" timestamp="2019-03-07T03:15:00Z">
+      <nd ref="1706565269"/>
+      <nd ref="6322195397"/>
+      <nd ref="1706565486"/>
+      <nd ref="1706565279"/>
+      <nd ref="1706565346"/>
+      <nd ref="1706565507"/>
+      <nd ref="1706565546"/>
+      <nd ref="1706565576"/>
+      <nd ref="1706565429"/>
+      <nd ref="1706565288"/>
+      <nd ref="1706565264"/>
+      <nd ref="1706565498"/>
+      <nd ref="1706565450"/>
+      <nd ref="1706565441"/>
+      <tag k="highway" v="service"/>
+    </way>
+    <way id="195588740" version="16" timestamp="2020-03-16T08:50:14Z">
+      <nd ref="6298560731"/>
+      <nd ref="5094125664"/>
+      <nd ref="4457879674"/>
+      <nd ref="7298615713"/>
+      <nd ref="7298658118"/>
+      <nd ref="7298658123"/>
+      <nd ref="2060094036"/>
+      <nd ref="7298615715"/>
+      <nd ref="2060094034"/>
+      <nd ref="6333103984"/>
+      <nd ref="2060094031"/>
+      <nd ref="6333103982"/>
+      <nd ref="2060094029"/>
+      <nd ref="2060094027"/>
+      <nd ref="7298364354"/>
+      <nd ref="6333103983"/>
+      <nd ref="7298364353"/>
+      <nd ref="2060094025"/>
+      <nd ref="2060094021"/>
+      <nd ref="5001342134"/>
+      <tag k="highway" v="service"/>
+    </way>
+    <way id="195588741" version="12" timestamp="2019-08-30T07:02:52Z">
+      <nd ref="2060094032"/>
+      <nd ref="6755599803"/>
+      <nd ref="6755599804"/>
+      <nd ref="6755599805"/>
+      <nd ref="6755599806"/>
+      <nd ref="2060094028"/>
+      <nd ref="6755599807"/>
+      <nd ref="6333104085"/>
+      <nd ref="2060094026"/>
+      <nd ref="6755599808"/>
+      <nd ref="2060094024"/>
+      <nd ref="6333104086"/>
+      <nd ref="2060094023"/>
+      <nd ref="2060094020"/>
+      <nd ref="2060094019"/>
+      <nd ref="5474615720"/>
+      <nd ref="2060094016"/>
+      <nd ref="5474615742"/>
+      <nd ref="319439408"/>
+      <nd ref="6337573846"/>
+      <nd ref="5001342135"/>
+      <nd ref="6337573845"/>
+      <nd ref="5001342134"/>
+      <tag k="highway" v="service"/>
+    </way>
+    <way id="202562180" version="6" timestamp="2017-05-08T01:39:03Z">
+      <nd ref="2125277125"/>
+      <nd ref="2125277128"/>
+      <nd ref="2125278771"/>
+      <nd ref="2125277124"/>
+      <nd ref="2125277129"/>
+      <nd ref="2125277130"/>
+      <nd ref="2125287712"/>
+      <nd ref="2125277131"/>
+      <nd ref="2125277123"/>
+      <nd ref="2125277127"/>
+      <nd ref="2125277126"/>
+      <nd ref="4822500396"/>
+      <nd ref="4822500397"/>
+      <nd ref="4822500398"/>
+      <nd ref="4822500399"/>
+      <nd ref="4822500400"/>
+      <nd ref="4822500401"/>
+      <nd ref="4822500402"/>
+      <nd ref="4822500403"/>
+      <nd ref="4822500735"/>
+      <nd ref="4822500404"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Ros Barat"/>
+      <tag k="oneway" v="no"/>
+      <tag k="sidewalk" v="none"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="229479259" version="4" timestamp="2019-09-06T09:52:24Z">
+      <nd ref="1581067423"/>
+      <nd ref="926622360"/>
+      <nd ref="2380732165"/>
+      <nd ref="6532409347"/>
+      <nd ref="6322195475"/>
+      <nd ref="926622357"/>
+      <nd ref="926622377"/>
+      <nd ref="6532409346"/>
+      <nd ref="926622378"/>
+      <nd ref="926622379"/>
+      <nd ref="926622354"/>
+      <nd ref="926622355"/>
+      <nd ref="6532409343"/>
+      <nd ref="6532409344"/>
+      <nd ref="926622380"/>
+      <nd ref="926622381"/>
+      <nd ref="926622382"/>
+      <tag k="highway" v="residential"/>
+      <tag k="name" v="Jalan Kompleks Pesona Depok 2"/>
+    </way>
+    <way id="234511055" version="4" timestamp="2018-02-02T10:15:49Z">
+      <nd ref="2427543333"/>
+      <nd ref="2427543334"/>
+      <nd ref="2427543335"/>
+      <nd ref="2427543336"/>
+      <nd ref="4822370150"/>
+      <nd ref="2427543337"/>
+      <nd ref="2427543338"/>
+      <nd ref="2427543339"/>
+      <nd ref="4822370157"/>
+      <nd ref="5380257571"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Sepak Bola"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="234511091" version="6" timestamp="2019-12-06T06:42:05Z">
+      <nd ref="2427542908"/>
+      <nd ref="2427543754"/>
+      <nd ref="2427543755"/>
+      <nd ref="2427543756"/>
+      <nd ref="2427543757"/>
+      <nd ref="2427543758"/>
+      <nd ref="4822370157"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan HanJuang"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="234872319" version="3" timestamp="2019-10-07T16:47:34Z">
+      <nd ref="2429963203"/>
+      <nd ref="2429963204"/>
+      <nd ref="678397387"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="234873697" version="4" timestamp="2019-10-07T17:32:29Z">
+      <nd ref="2427543753"/>
+      <nd ref="6858572438"/>
+      <nd ref="2429980477"/>
+      <nd ref="2429980479"/>
+      <nd ref="2429980481"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Han Juang"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="319326264" version="8" timestamp="2019-08-26T03:02:24Z">
+      <nd ref="3257395597"/>
+      <nd ref="5495816213"/>
+      <nd ref="3257395606"/>
+      <nd ref="3273987712"/>
+      <nd ref="3273987713"/>
+      <nd ref="5492527069"/>
+      <nd ref="3257395608"/>
+      <nd ref="3273987716"/>
+      <nd ref="3257395609"/>
+      <nd ref="5636918397"/>
+      <nd ref="3257395610"/>
+      <nd ref="3257395611"/>
+      <nd ref="5495816202"/>
+      <nd ref="3257395612"/>
+      <tag k="highway" v="tertiary"/>
+      <tag k="name" v="Kemakmuran"/>
+    </way>
+    <way id="319326265" version="2" timestamp="2018-02-19T10:41:02Z">
+      <nd ref="3257395593"/>
+      <nd ref="3257395599"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="highway" v="tertiary"/>
+      <tag k="layer" v="1"/>
+      <tag k="name" v="Kemakmuran"/>
+    </way>
+    <way id="319326267" version="5" timestamp="2018-03-22T09:25:24Z">
+      <nd ref="3470834493"/>
+      <nd ref="3257395587"/>
+      <nd ref="5495816197"/>
+      <nd ref="5495075590"/>
+      <nd ref="5495816192"/>
+      <nd ref="5492527036"/>
+      <nd ref="3257395593"/>
+      <tag k="highway" v="tertiary"/>
+      <tag k="name" v="Kemakmuran"/>
+    </way>
+    <way id="319326274" version="7" timestamp="2019-08-26T03:02:24Z">
+      <nd ref="3257395597"/>
+      <nd ref="3257395596"/>
+      <nd ref="5495816199"/>
+      <nd ref="5495816198"/>
+      <nd ref="3257395592"/>
+      <nd ref="6745049916"/>
+      <nd ref="6317691189"/>
+      <nd ref="5495816200"/>
+      <nd ref="3257395586"/>
+      <nd ref="6317691190"/>
+      <nd ref="5495816201"/>
+      <nd ref="3257395585"/>
+      <nd ref="5495075592"/>
+      <nd ref="6317691191"/>
+      <nd ref="3257395578"/>
+      <nd ref="6320011340"/>
+      <nd ref="5495075589"/>
+      <nd ref="6745049915"/>
+      <nd ref="3257395577"/>
+      <nd ref="6714701652"/>
+      <nd ref="3257395576"/>
+      <tag k="highway" v="tertiary"/>
+    </way>
+    <way id="321785006" version="4" timestamp="2019-12-03T04:00:58Z">
+      <nd ref="579473614"/>
+      <nd ref="135625782"/>
+      <tag k="highway" v="primary"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="339873371" version="6" timestamp="2019-11-04T12:24:14Z">
+      <nd ref="3470834493"/>
+      <nd ref="3470834494"/>
+      <nd ref="5464333781"/>
+      <nd ref="3470834495"/>
+      <nd ref="5492770810"/>
+      <nd ref="3470834496"/>
+      <nd ref="5466071442"/>
+      <nd ref="579473614"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Mayor Madmuin Hasibuan"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="339873372" version="7" timestamp="2019-03-06T03:23:23Z">
+      <nd ref="579472844"/>
+      <nd ref="5492770811"/>
+      <nd ref="579472839"/>
+      <nd ref="5492770809"/>
+      <nd ref="5492770808"/>
+      <nd ref="6320011374"/>
+      <nd ref="5464333780"/>
+      <nd ref="3470833892"/>
+      <nd ref="5492527063"/>
+      <nd ref="6319913100"/>
+      <nd ref="5492527061"/>
+      <nd ref="5492526192"/>
+      <nd ref="5492527056"/>
+      <nd ref="1361319067"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lanes" v="2"/>
+      <tag k="name" v="Jalan Mayor Madmuin Hasibuan"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="361662409" version="6" timestamp="2020-03-03T03:47:10Z">
+      <nd ref="6738252893"/>
+      <nd ref="6738252894"/>
+      <nd ref="6738252895"/>
+      <nd ref="3661151002"/>
+      <nd ref="3661151003"/>
+      <nd ref="3661151007"/>
+      <nd ref="3661151008"/>
+      <nd ref="6768780279"/>
+      <nd ref="6768780280"/>
+      <nd ref="7259824245"/>
+      <nd ref="5668280143"/>
+      <nd ref="3661150997"/>
+      <nd ref="6768780273"/>
+      <nd ref="3661151001"/>
+      <tag k="highway" v="residential"/>
+    </way>
+  </modify>
+  <create>
+    <way id="363387092" version="2" timestamp="2019-06-13T03:19:34Z">
+      <nd ref="3675553178"/>
+      <nd ref="3675553180"/>
+      <nd ref="6543841394"/>
+      <nd ref="3675553179"/>
+      <tag k="highway" v="residential"/>
+    </way>
+  </create>
+  <modify>
+    <way id="402622497" version="3" timestamp="2020-02-12T01:49:00Z">
+      <nd ref="7204951928"/>
+      <nd ref="4050059941"/>
+      <nd ref="7204951927"/>
+      <nd ref="7204951926"/>
+      <nd ref="5681025035"/>
+      <nd ref="5681025034"/>
+      <nd ref="5681025033"/>
+      <nd ref="5681025032"/>
+      <nd ref="5481547644"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="407493918" version="4" timestamp="2020-02-14T03:00:29Z">
+      <nd ref="937034641"/>
+      <nd ref="7209787903"/>
+      <nd ref="7209787910"/>
+      <nd ref="5539454960"/>
+      <nd ref="1716014461"/>
+      <tag k="highway" v="service"/>
+    </way>
+    <way id="447821806" version="3" timestamp="2018-03-21T03:50:41Z">
+      <nd ref="4448844142"/>
+      <nd ref="4448844147"/>
+      <nd ref="4448844148"/>
+      <nd ref="4448844149"/>
+      <nd ref="5492557954"/>
+      <nd ref="5492557950"/>
+      <nd ref="5492557953"/>
+      <tag k="highway" v="residential"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Warung Jati I"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="4"/>
+    </way>
+    <way id="449551349" version="10" timestamp="2020-02-14T08:07:43Z">
+      <nd ref="309714211"/>
+      <nd ref="7018543868"/>
+      <nd ref="7211011389"/>
+      <nd ref="6185366859"/>
+      <tag k="est_width" v="6.64"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="2"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="453253805" version="14" timestamp="2020-02-12T03:44:26Z">
+      <nd ref="4464982892"/>
+      <nd ref="4464982887"/>
+      <nd ref="4464982885"/>
+      <nd ref="4834044922"/>
+      <nd ref="5080707757"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="8.3"/>
+    </way>
+    <way id="453253808" version="10" timestamp="2020-02-12T03:46:35Z">
+      <nd ref="4464982952"/>
+      <nd ref="7018546921"/>
+      <nd ref="309711985"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="3"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="7.9"/>
+    </way>
+    <way id="453253820" version="5" timestamp="2020-02-12T03:47:59Z">
+      <nd ref="4464982900"/>
+      <nd ref="4464982898"/>
+      <nd ref="95026316"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="3"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="11.1"/>
+    </way>
+    <way id="453906233" version="10" timestamp="2020-11-18T00:20:43Z" uid="6" user="Iyan" changeset="1744">
+      <nd ref="6547820618"/>
+      <nd ref="4505738295"/>
+      <nd ref="4505738294"/>
+      <nd ref="6315624915"/>
+      <nd ref="7105145960"/>
+      <nd ref="1174097092"/>
+      <tag k="access" v="permissive"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="service" v="parking_aisle"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="453907620" version="8" timestamp="2020-11-18T00:20:43Z" uid="6" user="Iyan" changeset="1744">
+      <nd ref="4505746908"/>
+      <nd ref="6547820618"/>
+      <tag k="access" v="permissive"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="service" v="parking_aisle"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="453955775" version="4" timestamp="2020-03-05T03:50:21Z">
+      <nd ref="6320011373"/>
+      <nd ref="6320011372"/>
+      <nd ref="4506073969"/>
+      <nd ref="6320011364"/>
+      <nd ref="6320011371"/>
+      <nd ref="6320011370"/>
+      <nd ref="4506073970"/>
+      <nd ref="4506073976"/>
+      <nd ref="4506073974"/>
+      <nd ref="6320011904"/>
+      <nd ref="4506073971"/>
+      <nd ref="4506073972"/>
+      <nd ref="6317691194"/>
+      <nd ref="6317691193"/>
+      <nd ref="4506073973"/>
+      <nd ref="4506073965"/>
+      <tag k="highway" v="service"/>
+      <tag k="service" v="parking_aisle"/>
+    </way>
+    <way id="453955776" version="2" timestamp="2020-03-05T03:50:21Z">
+      <nd ref="4506073974"/>
+      <nd ref="4506073975"/>
+      <nd ref="6320011368"/>
+      <nd ref="6320011369"/>
+      <nd ref="4506073977"/>
+      <tag k="highway" v="service"/>
+      <tag k="service" v="parking_aisle"/>
+    </way>
+    <way id="453955777" version="3" timestamp="2020-03-05T03:50:21Z">
+      <nd ref="4506073976"/>
+      <nd ref="6320011367"/>
+      <nd ref="6320011363"/>
+      <nd ref="4506073977"/>
+      <nd ref="4506073978"/>
+      <tag k="highway" v="service"/>
+      <tag k="service" v="parking_aisle"/>
+    </way>
+    <way id="453955780" version="5" timestamp="2019-03-06T03:23:24Z">
+      <nd ref="5579504992"/>
+      <nd ref="4506073979"/>
+      <nd ref="4506073961"/>
+      <nd ref="4506073962"/>
+      <nd ref="6320011373"/>
+      <nd ref="4506073978"/>
+      <nd ref="4506073963"/>
+      <nd ref="6320011361"/>
+      <nd ref="4506073964"/>
+      <nd ref="6320011362"/>
+      <nd ref="4506073965"/>
+      <nd ref="4506073966"/>
+      <nd ref="6317691198"/>
+      <nd ref="4506073967"/>
+      <nd ref="5572461939"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="no"/>
+    </way>
+    <way id="453955781" version="1" timestamp="2016-11-17T10:20:38Z">
+      <nd ref="4506073980"/>
+      <nd ref="4506073981"/>
+      <nd ref="4506073962"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="highway" v="service"/>
+    </way>
+    <way id="490022847" version="8" timestamp="2019-12-05T12:51:39Z">
+      <nd ref="4822362487"/>
+      <nd ref="6333123602"/>
+      <nd ref="6389892672"/>
+      <nd ref="5492557500"/>
+      <nd ref="5492557501"/>
+      <nd ref="361353433"/>
+      <nd ref="4448844142"/>
+      <nd ref="361353438"/>
+      <nd ref="4821787639"/>
+      <nd ref="361353441"/>
+      <nd ref="361353445"/>
+      <nd ref="4822155448"/>
+      <nd ref="5492557953"/>
+      <nd ref="4822155449"/>
+      <nd ref="6818683495"/>
+      <nd ref="7035897950"/>
+      <nd ref="361353447"/>
+      <tag k="highway" v="residential"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Jalan Warung Jati Timur II A"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="4"/>
+    </way>
+    <way id="490046557" version="1" timestamp="2017-04-28T08:16:09Z">
+      <nd ref="4822370156"/>
+      <nd ref="4822370165"/>
+      <nd ref="4822370184"/>
+      <nd ref="4822370199"/>
+      <nd ref="4822370210"/>
+      <nd ref="4822370219"/>
+      <nd ref="4822370323"/>
+      <nd ref="2429963204"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Burani"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="490046669" version="2" timestamp="2019-12-13T08:25:01Z">
+      <nd ref="4822370351"/>
+      <nd ref="4822370342"/>
+      <nd ref="4822370336"/>
+      <nd ref="4822370328"/>
+      <nd ref="4822370325"/>
+      <nd ref="4822370218"/>
+      <nd ref="4822370213"/>
+      <nd ref="4822370212"/>
+      <nd ref="4822370201"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="490060641" version="1" timestamp="2017-04-28T09:14:41Z">
+      <nd ref="4822500392"/>
+      <nd ref="4822500391"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="layer" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Ros Barat IV"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="2"/>
+    </way>
+    <way id="490060642" version="1" timestamp="2017-04-28T09:14:41Z">
+      <nd ref="4788000636"/>
+      <nd ref="4822500395"/>
+      <nd ref="4822500394"/>
+      <nd ref="4822500393"/>
+      <nd ref="4822500392"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Ros Barat IV"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="2"/>
+    </way>
+    <way id="490060643" version="1" timestamp="2017-04-28T09:14:41Z">
+      <nd ref="4822500391"/>
+      <nd ref="4822500390"/>
+      <nd ref="4822500722"/>
+      <nd ref="4822500389"/>
+      <nd ref="4822500388"/>
+      <nd ref="4822500387"/>
+      <nd ref="4822500386"/>
+      <nd ref="4822500385"/>
+      <nd ref="4822500384"/>
+      <nd ref="4822500383"/>
+      <nd ref="4822500382"/>
+      <nd ref="351702448"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Ros Barat IV"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="2"/>
+    </way>
+    <way id="490060644" version="3" timestamp="2019-12-11T08:48:38Z">
+      <nd ref="7048779599"/>
+      <nd ref="4822500724"/>
+      <nd ref="4822500406"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Ros Barat"/>
+      <tag k="oneway" v="no"/>
+      <tag k="sidewalk" v="none"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="490060645" version="2" timestamp="2017-05-08T06:50:46Z">
+      <nd ref="4822500404"/>
+      <nd ref="4822500405"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="layer" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Ros Barat"/>
+      <tag k="oneway" v="no"/>
+      <tag k="sidewalk" v="none"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="490060646" version="1" timestamp="2017-04-28T09:14:42Z">
+      <nd ref="4822500410"/>
+      <nd ref="4822500409"/>
+      <nd ref="4822500408"/>
+      <nd ref="4822500415"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Puter II"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="490060647" version="1" timestamp="2017-04-28T09:14:42Z">
+      <nd ref="4822500417"/>
+      <nd ref="4822500416"/>
+      <nd ref="4822500415"/>
+      <nd ref="4822500414"/>
+      <nd ref="4822500413"/>
+      <nd ref="4822500412"/>
+      <nd ref="4822500411"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Puter I"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="490060648" version="1" timestamp="2017-04-28T09:14:42Z">
+      <nd ref="4822500722"/>
+      <nd ref="4822500410"/>
+      <nd ref="4822500721"/>
+      <nd ref="4822500420"/>
+      <nd ref="4822500419"/>
+      <nd ref="4822500418"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Puter II"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="510416700" version="3" timestamp="2019-09-06T08:34:19Z">
+      <nd ref="1682882978"/>
+      <nd ref="4994324726"/>
+      <nd ref="6776487691"/>
+      <nd ref="4994324725"/>
+      <nd ref="4994324735"/>
+      <tag k="highway" v="residential"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Anggrek"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="3"/>
+    </way>
+    <way id="510416704" version="3" timestamp="2019-03-11T10:40:48Z">
+      <nd ref="4994324739"/>
+      <nd ref="4994324733"/>
+      <nd ref="4994324732"/>
+      <nd ref="4994324731"/>
+      <nd ref="6330569120"/>
+      <nd ref="6330569121"/>
+      <nd ref="6330569122"/>
+      <nd ref="4994324729"/>
+      <nd ref="6330569123"/>
+      <nd ref="6330569124"/>
+      <nd ref="4994324728"/>
+      <nd ref="6330569125"/>
+      <nd ref="6330569126"/>
+      <nd ref="6330569127"/>
+      <nd ref="4994324727"/>
+      <nd ref="4994324749"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="paving_stones"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="510416708" version="3" timestamp="2019-03-11T10:40:49Z">
+      <nd ref="4994324740"/>
+      <nd ref="4994324739"/>
+      <nd ref="4994458853"/>
+      <nd ref="4994324738"/>
+      <nd ref="6330569132"/>
+      <nd ref="6330569133"/>
+      <nd ref="6330569134"/>
+      <nd ref="4994324737"/>
+      <nd ref="6330569135"/>
+      <nd ref="6330569136"/>
+      <nd ref="6330569137"/>
+      <nd ref="4994324736"/>
+      <nd ref="4994324735"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="paving_stones"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="510416712" version="4" timestamp="2019-07-31T12:57:01Z">
+      <nd ref="4994324745"/>
+      <nd ref="4994324744"/>
+      <nd ref="6330569148"/>
+      <nd ref="6330569147"/>
+      <nd ref="6330569146"/>
+      <nd ref="4994324743"/>
+      <nd ref="6330569145"/>
+      <nd ref="6330569144"/>
+      <nd ref="4994324742"/>
+      <nd ref="6330569143"/>
+      <nd ref="6330569142"/>
+      <nd ref="4994324732"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Sejahtera IC"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="width" v="1.5"/>
+    </way>
+    <way id="510416715" version="2" timestamp="2019-03-11T10:40:49Z">
+      <nd ref="4994324755"/>
+      <nd ref="6330569131"/>
+      <nd ref="4994324750"/>
+      <nd ref="6330569128"/>
+      <nd ref="6330569129"/>
+      <nd ref="6330569130"/>
+      <nd ref="4994324749"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Gang Sejahtera II"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="510416719" version="3" timestamp="2019-03-11T10:40:49Z">
+      <nd ref="4994324754"/>
+      <nd ref="4994324753"/>
+      <nd ref="6330569141"/>
+      <nd ref="4994324752"/>
+      <nd ref="4994324751"/>
+      <nd ref="4994324746"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Gang Sejahtera II"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="510416723" version="2" timestamp="2019-03-11T10:40:49Z">
+      <nd ref="4994324758"/>
+      <nd ref="4994324757"/>
+      <nd ref="6330569119"/>
+      <nd ref="6330569118"/>
+      <nd ref="6330569117"/>
+      <nd ref="6330569116"/>
+      <nd ref="4994324756"/>
+      <nd ref="4994324754"/>
+      <nd ref="4994324755"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Sejahtera II"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="width" v="1.5"/>
+    </way>
+    <way id="514093105" version="3" timestamp="2019-02-21T05:25:54Z">
+      <nd ref="5023479756"/>
+      <nd ref="5023479573"/>
+      <nd ref="6292528951"/>
+      <nd ref="6292528950"/>
+      <nd ref="5023479572"/>
+      <nd ref="5085310474"/>
+      <nd ref="6292528952"/>
+      <nd ref="5023479571"/>
+      <nd ref="5085310473"/>
+      <nd ref="5023479570"/>
+      <nd ref="5085310472"/>
+      <nd ref="5023479569"/>
+      <nd ref="5085310471"/>
+      <nd ref="6292528953"/>
+      <nd ref="5023479568"/>
+      <nd ref="1672978206"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="2"/>
+      <tag k="lanes:backward" v="1"/>
+      <tag k="lanes:forward" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="bad"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="ground"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="530635250" version="7" timestamp="2019-06-13T03:19:34Z">
+      <nd ref="3675553179"/>
+      <nd ref="6543841393"/>
+      <nd ref="5388447329"/>
+      <nd ref="5388447330"/>
+      <nd ref="6543841395"/>
+      <nd ref="6319989549"/>
+      <nd ref="5436639622"/>
+      <nd ref="5152352769"/>
+      <nd ref="5152352768"/>
+      <nd ref="5152352767"/>
+      <nd ref="5152352766"/>
+      <nd ref="5152352765"/>
+      <nd ref="5152352764"/>
+      <nd ref="5152352763"/>
+      <nd ref="5152352762"/>
+      <nd ref="5152352771"/>
+      <nd ref="5152352761"/>
+      <nd ref="5152352760"/>
+      <nd ref="5152352759"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="531596039" version="14" timestamp="2020-03-04T04:04:15Z">
+      <nd ref="5374031649"/>
+      <nd ref="6546973967"/>
+      <nd ref="5374031648"/>
+      <nd ref="2406570481"/>
+      <nd ref="5376966302"/>
+      <nd ref="192002650"/>
+      <nd ref="7224025404"/>
+      <nd ref="7224025403"/>
+      <nd ref="6315609702"/>
+      <nd ref="7224025400"/>
+      <nd ref="191406968"/>
+      <tag k="est_width" v="9.22"/>
+      <tag k="highway" v="secondary"/>
+      <tag k="lane_markings" v="no"/>
+      <tag k="lanes" v="2"/>
+      <tag k="name" v="Jalan Johar"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="537067560" version="9" timestamp="2020-02-14T08:20:34Z">
+      <nd ref="7210986617"/>
+      <nd ref="5201496193"/>
+      <nd ref="4464982844"/>
+      <nd ref="4464982846"/>
+      <nd ref="4464982847"/>
+      <nd ref="4464982850"/>
+      <nd ref="4834044911"/>
+      <nd ref="4464982852"/>
+      <nd ref="7087405553"/>
+      <nd ref="5201465506"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="4"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="10"/>
+    </way>
+    <way id="548660883" version="18" timestamp="2020-01-22T19:46:49Z">
+      <nd ref="6997694035"/>
+      <nd ref="6994034148"/>
+      <nd ref="6994034149"/>
+      <nd ref="7128713010"/>
+      <nd ref="6994034150"/>
+      <nd ref="6994034151"/>
+      <nd ref="6994034152"/>
+      <nd ref="6994034153"/>
+      <nd ref="6994034154"/>
+      <nd ref="6994034155"/>
+      <nd ref="6994034156"/>
+      <nd ref="6994034157"/>
+      <nd ref="6994034158"/>
+      <nd ref="7131558592"/>
+      <nd ref="7152202414"/>
+      <nd ref="6994034159"/>
+      <nd ref="6994034160"/>
+      <nd ref="6994034161"/>
+      <nd ref="6994034162"/>
+      <nd ref="6994034163"/>
+      <nd ref="6994034164"/>
+      <nd ref="6994034165"/>
+      <nd ref="6994034166"/>
+      <nd ref="6994034167"/>
+      <nd ref="6994034168"/>
+      <nd ref="6994034169"/>
+      <nd ref="6994034170"/>
+      <nd ref="7139674277"/>
+      <nd ref="6994034171"/>
+      <nd ref="6994034172"/>
+      <nd ref="6994034173"/>
+      <nd ref="6994034174"/>
+      <nd ref="6994034175"/>
+      <nd ref="7139674278"/>
+      <nd ref="7139674279"/>
+      <nd ref="6994034176"/>
+      <nd ref="7139716224"/>
+      <nd ref="6994034177"/>
+      <nd ref="6994034178"/>
+      <nd ref="6994034179"/>
+      <nd ref="6994034180"/>
+      <nd ref="6994034181"/>
+      <nd ref="6994034182"/>
+      <nd ref="6994034183"/>
+      <nd ref="6994034184"/>
+      <nd ref="6994034185"/>
+      <nd ref="6994034186"/>
+      <nd ref="6994034055"/>
+      <tag k="access" v="no"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="556966711" version="11" timestamp="2020-02-05T12:41:13Z">
+      <nd ref="309911047"/>
+      <nd ref="7119730443"/>
+      <nd ref="4546041078"/>
+      <nd ref="5674182296"/>
+      <nd ref="4546033082"/>
+      <nd ref="7088831585"/>
+      <nd ref="4746275622"/>
+      <nd ref="7115123675"/>
+      <nd ref="7150595271"/>
+      <nd ref="7150595269"/>
+      <nd ref="7150595268"/>
+      <nd ref="7150595267"/>
+      <tag k="est_width" v="6.97"/>
+      <tag k="highway" v="secondary"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan KH. Wahid Hasyim"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="557219733" version="11" timestamp="2020-03-04T05:00:57Z">
+      <nd ref="191407033"/>
+      <nd ref="5374282174"/>
+      <nd ref="4798376921"/>
+      <nd ref="4798376851"/>
+      <nd ref="4798376920"/>
+      <nd ref="191578852"/>
+      <tag k="highway" v="secondary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan KH. Wahid Hasyim"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="6"/>
+    </way>
+    <way id="560900920" version="7" timestamp="2019-09-03T08:30:00Z">
+      <nd ref="5409109102"/>
+      <nd ref="5409109103"/>
+      <nd ref="6738252882"/>
+      <nd ref="5409109104"/>
+      <nd ref="5409109105"/>
+      <nd ref="5409109106"/>
+      <nd ref="5409109107"/>
+      <nd ref="5409109108"/>
+      <nd ref="6738252859"/>
+      <nd ref="6738252860"/>
+      <nd ref="5409109109"/>
+      <nd ref="5466300627"/>
+      <nd ref="5409109110"/>
+      <nd ref="5409109111"/>
+      <nd ref="5409109112"/>
+      <nd ref="5409109113"/>
+      <nd ref="5466300626"/>
+      <nd ref="5409109114"/>
+      <nd ref="5409109115"/>
+      <nd ref="6324600737"/>
+      <nd ref="5409109116"/>
+      <nd ref="6768780270"/>
+      <nd ref="5409109117"/>
+      <nd ref="6768780271"/>
+      <nd ref="5409109118"/>
+      <nd ref="5409248684"/>
+      <nd ref="5409109119"/>
+      <nd ref="5409109120"/>
+      <nd ref="5409109221"/>
+      <nd ref="6768780272"/>
+      <nd ref="5409109222"/>
+      <nd ref="5409109223"/>
+      <nd ref="5409109224"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="561458651" version="5" timestamp="2020-02-11T09:24:42Z">
+      <nd ref="4050059913"/>
+      <nd ref="6315638709"/>
+      <nd ref="7202941145"/>
+      <nd ref="4050059919"/>
+      <nd ref="6315638708"/>
+      <nd ref="4050059917"/>
+      <nd ref="4050059915"/>
+      <nd ref="4050059914"/>
+      <nd ref="7202941138"/>
+      <nd ref="4050059922"/>
+      <nd ref="4050059924"/>
+      <nd ref="4050059925"/>
+      <nd ref="4050059927"/>
+      <nd ref="5681236656"/>
+      <nd ref="5681025031"/>
+      <nd ref="6315638705"/>
+      <tag k="highway" v="residential"/>
+    </way>
+  </modify>
+  <create>
+    <way id="563556607" version="3" timestamp="2019-06-26T08:51:57Z">
+      <nd ref="6310064636"/>
+      <nd ref="6310064635"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="highway" v="residential"/>
+      <tag k="layer" v="1"/>
+    </way>
+  </create>
+  <modify>
+    <way id="564192169" version="3" timestamp="2019-08-19T08:50:49Z">
+      <nd ref="5436619265"/>
+      <nd ref="5436619264"/>
+      <nd ref="6544292506"/>
+      <nd ref="5436619263"/>
+      <nd ref="6544292505"/>
+      <nd ref="6544292504"/>
+      <nd ref="5436619262"/>
+      <nd ref="5436619261"/>
+      <nd ref="5436619260"/>
+      <nd ref="6544292491"/>
+      <nd ref="5436619259"/>
+      <nd ref="6544292492"/>
+      <nd ref="5436619258"/>
+      <nd ref="5436619257"/>
+      <nd ref="5436619256"/>
+      <nd ref="6544292488"/>
+      <nd ref="6544292486"/>
+      <nd ref="5436619255"/>
+      <nd ref="6544292487"/>
+      <nd ref="5436619254"/>
+      <nd ref="5436619253"/>
+      <nd ref="6722982742"/>
+      <nd ref="6722982746"/>
+      <nd ref="6722982741"/>
+      <nd ref="6722982747"/>
+      <nd ref="6722982740"/>
+      <nd ref="5436619252"/>
+      <nd ref="5436619251"/>
+      <tag k="highway" v="residential"/>
+    </way>
+  </modify>
+  <create>
+    <way id="564196425" version="5" timestamp="2019-06-13T03:19:34Z">
+      <nd ref="5436639621"/>
+      <nd ref="5436639412"/>
+      <nd ref="5436639418"/>
+      <nd ref="5436639417"/>
+      <nd ref="6319989544"/>
+      <nd ref="6543841384"/>
+      <nd ref="5436639415"/>
+      <nd ref="5436639414"/>
+      <nd ref="5436639413"/>
+      <nd ref="6543841383"/>
+      <nd ref="3675553164"/>
+      <nd ref="3675553163"/>
+      <tag k="highway" v="residential"/>
+    </way>
+  </create>
+  <modify>
+    <way id="564196753" version="3" timestamp="2019-06-13T03:19:34Z">
+      <nd ref="5152352863"/>
+      <nd ref="6543841355"/>
+      <nd ref="5436641347"/>
+      <nd ref="6543841356"/>
+      <nd ref="5623870592"/>
+      <nd ref="5436639629"/>
+      <nd ref="5436641346"/>
+      <nd ref="5436641345"/>
+      <nd ref="5436641344"/>
+      <nd ref="6543841377"/>
+      <nd ref="3675553182"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="567790160" version="2" timestamp="2018-03-21T03:23:53Z">
+      <nd ref="5464333780"/>
+      <nd ref="5464333781"/>
+      <tag k="highway" v="primary_link"/>
+    </way>
+    <way id="568084063" version="7" timestamp="2019-09-10T07:35:24Z">
+      <nd ref="3661151003"/>
+      <nd ref="3661151004"/>
+      <nd ref="6320564409"/>
+      <nd ref="6320564410"/>
+      <nd ref="3661151005"/>
+      <nd ref="6738252881"/>
+      <nd ref="3661151006"/>
+      <nd ref="5409109102"/>
+      <nd ref="3661151007"/>
+      <nd ref="5650751245"/>
+      <nd ref="5610969154"/>
+      <tag k="highway" v="residential"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="568084142" version="16" timestamp="2020-03-02T09:08:34Z">
+      <nd ref="5466300561"/>
+      <nd ref="6738252438"/>
+      <nd ref="5466300548"/>
+      <nd ref="6556592511"/>
+      <nd ref="5649138390"/>
+      <nd ref="5466300562"/>
+      <nd ref="6738252437"/>
+      <nd ref="5649138365"/>
+      <nd ref="5649138377"/>
+      <nd ref="7243937167"/>
+      <nd ref="5649138361"/>
+      <nd ref="5466300628"/>
+      <nd ref="5649138355"/>
+      <nd ref="5649138346"/>
+      <nd ref="5466300563"/>
+      <nd ref="5466300564"/>
+      <nd ref="5466300565"/>
+      <nd ref="6320813588"/>
+      <nd ref="5466300667"/>
+      <nd ref="5466300566"/>
+      <nd ref="7238033882"/>
+      <nd ref="6325247850"/>
+      <nd ref="5466300567"/>
+      <nd ref="6738252748"/>
+      <nd ref="5649138371"/>
+      <nd ref="5466299754"/>
+      <nd ref="5649138342"/>
+      <nd ref="6321479261"/>
+      <nd ref="7238033881"/>
+      <nd ref="6738252747"/>
+      <nd ref="6738252746"/>
+      <nd ref="5649138338"/>
+      <nd ref="6738252745"/>
+      <nd ref="5466300568"/>
+      <nd ref="5650750579"/>
+      <nd ref="6738252744"/>
+      <nd ref="5466299752"/>
+      <nd ref="6321508512"/>
+      <nd ref="6321508511"/>
+      <nd ref="5466300569"/>
+      <nd ref="5466300570"/>
+      <nd ref="5466299784"/>
+      <nd ref="6738252653"/>
+      <nd ref="6738252652"/>
+      <nd ref="6738252594"/>
+      <nd ref="5466300571"/>
+      <nd ref="6738252604"/>
+      <nd ref="5466300574"/>
+      <nd ref="5466299755"/>
+      <nd ref="7238039808"/>
+      <nd ref="6325247833"/>
+      <nd ref="7238039807"/>
+      <nd ref="6325247834"/>
+      <nd ref="5466300572"/>
+      <nd ref="6604204163"/>
+      <nd ref="5650751263"/>
+      <nd ref="5466300573"/>
+      <nd ref="5650751261"/>
+      <nd ref="5650751247"/>
+      <nd ref="5466300193"/>
+      <nd ref="7256947163"/>
+      <nd ref="5466300607"/>
+      <nd ref="6738252945"/>
+      <nd ref="5466300608"/>
+      <nd ref="6738252944"/>
+      <nd ref="5466300609"/>
+      <nd ref="6325271423"/>
+      <nd ref="6738252943"/>
+      <nd ref="6738252942"/>
+      <nd ref="6325271424"/>
+      <nd ref="6325578334"/>
+      <nd ref="6738252941"/>
+      <nd ref="5466300610"/>
+      <nd ref="6320564404"/>
+      <nd ref="6325271425"/>
+      <nd ref="6325271426"/>
+      <nd ref="3661120166"/>
+      <nd ref="5466300612"/>
+      <nd ref="7256947162"/>
+      <nd ref="6738252880"/>
+      <nd ref="5650750602"/>
+      <nd ref="5466300613"/>
+      <nd ref="6738252879"/>
+      <nd ref="6738252878"/>
+      <nd ref="5650751290"/>
+      <nd ref="5650751277"/>
+      <nd ref="6556600217"/>
+      <nd ref="5466300614"/>
+      <nd ref="6556600216"/>
+      <nd ref="7257371545"/>
+      <nd ref="6738252893"/>
+      <nd ref="5650750603"/>
+      <nd ref="5466300615"/>
+      <nd ref="5466300616"/>
+      <nd ref="6738252892"/>
+      <nd ref="6738252891"/>
+      <nd ref="6738252890"/>
+      <nd ref="6738252889"/>
+      <nd ref="6738252888"/>
+      <nd ref="6738252887"/>
+      <nd ref="6738252886"/>
+      <nd ref="6738252885"/>
+      <nd ref="5466300619"/>
+      <nd ref="5466300620"/>
+      <nd ref="6738252884"/>
+      <nd ref="6738252883"/>
+      <nd ref="5409109106"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="571518990" version="1" timestamp="2018-03-21T03:50:24Z">
+      <nd ref="361353356"/>
+      <nd ref="5492557761"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="571519010" version="1" timestamp="2018-03-21T03:50:25Z">
+      <nd ref="5492557805"/>
+      <nd ref="5492557804"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="572239891" version="2" timestamp="2020-01-20T20:07:03Z">
+      <nd ref="5497953760"/>
+      <nd ref="7071978912"/>
+      <nd ref="7071978913"/>
+      <nd ref="7071905243"/>
+      <nd ref="7071905244"/>
+      <nd ref="7147243020"/>
+      <tag k="highway" v="residential"/>
+      <tag k="moped" v="yes"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="surface" v="concrete"/>
+    </way>
+    <way id="583605737" version="1" timestamp="2018-04-26T01:46:40Z">
+      <nd ref="5579504991"/>
+      <nd ref="5579504992"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="no"/>
+      <tag k="tunnel" v="building_passage"/>
+    </way>
+    <way id="583605738" version="1" timestamp="2018-04-26T01:46:40Z">
+      <nd ref="5572461938"/>
+      <nd ref="5579504991"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="no"/>
+    </way>
+    <way id="584617512" version="21" timestamp="2020-01-22T19:46:49Z">
+      <nd ref="6994034056"/>
+      <nd ref="6994034103"/>
+      <nd ref="6994034104"/>
+      <nd ref="6994034105"/>
+      <nd ref="6994034106"/>
+      <nd ref="6994034107"/>
+      <nd ref="6994034108"/>
+      <nd ref="6994034109"/>
+      <nd ref="6994034110"/>
+      <nd ref="6994034111"/>
+      <nd ref="6994034112"/>
+      <nd ref="7139716225"/>
+      <nd ref="6994034113"/>
+      <nd ref="7139712540"/>
+      <nd ref="7139712541"/>
+      <nd ref="6994034114"/>
+      <nd ref="6994034115"/>
+      <nd ref="6994034116"/>
+      <nd ref="6994034117"/>
+      <nd ref="6994034118"/>
+      <nd ref="7139674276"/>
+      <nd ref="6994034119"/>
+      <nd ref="6994034120"/>
+      <nd ref="6994034121"/>
+      <nd ref="6994034122"/>
+      <nd ref="6994034123"/>
+      <nd ref="6994034124"/>
+      <nd ref="6994034125"/>
+      <nd ref="6994034126"/>
+      <nd ref="6994034127"/>
+      <nd ref="6994034128"/>
+      <nd ref="6994034129"/>
+      <nd ref="6994034130"/>
+      <nd ref="7152202415"/>
+      <nd ref="7131558591"/>
+      <nd ref="6994034131"/>
+      <nd ref="6994034132"/>
+      <nd ref="6994034133"/>
+      <nd ref="6994034134"/>
+      <nd ref="6994034135"/>
+      <nd ref="6994034136"/>
+      <nd ref="6994034137"/>
+      <nd ref="6994034138"/>
+      <nd ref="6994034139"/>
+      <nd ref="7122966212"/>
+      <nd ref="6994034140"/>
+      <nd ref="6994034141"/>
+      <nd ref="6997694034"/>
+      <tag k="access" v="no"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="594785501" version="7" timestamp="2020-01-20T17:13:50Z">
+      <nd ref="5670936916"/>
+      <nd ref="7089466882"/>
+      <tag k="access" v="permissive"/>
+      <tag k="highway" v="residential"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="630053562" version="3" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065464"/>
+      <nd ref="6997190568"/>
+      <nd ref="5950065462"/>
+      <nd ref="6997190567"/>
+      <nd ref="5950065461"/>
+      <nd ref="5950065460"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="630053564" version="5" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065491"/>
+      <nd ref="5950065490"/>
+      <nd ref="5950065489"/>
+      <nd ref="5950065488"/>
+      <nd ref="5950065487"/>
+      <nd ref="5950065486"/>
+      <nd ref="5950065485"/>
+      <nd ref="5950065484"/>
+      <nd ref="5950065483"/>
+      <nd ref="6997190544"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="630053566" version="4" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="6997220601"/>
+      <nd ref="5950065533"/>
+      <nd ref="5950065532"/>
+      <nd ref="5950065531"/>
+      <nd ref="5950065530"/>
+      <nd ref="5950065529"/>
+      <nd ref="5950065528"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="630053567" version="5" timestamp="2020-01-30T10:22:47Z">
+      <nd ref="5950065570"/>
+      <nd ref="7061576435"/>
+      <nd ref="5950065566"/>
+      <nd ref="5950065565"/>
+      <nd ref="5950065564"/>
+      <nd ref="5950065563"/>
+      <nd ref="7171517132"/>
+      <nd ref="5950065562"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="634651374" version="11" timestamp="2020-02-27T05:24:59Z">
+      <nd ref="6315633047"/>
+      <nd ref="6315633048"/>
+      <nd ref="4798376611"/>
+      <nd ref="7115056650"/>
+      <nd ref="7115056647"/>
+      <nd ref="7059144273"/>
+      <nd ref="6315505795"/>
+      <nd ref="7033905939"/>
+      <nd ref="7033905938"/>
+      <tag k="highway" v="secondary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan KH. Wahid Hasyim"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="12"/>
+    </way>
+    <way id="652543127" version="3" timestamp="2020-02-18T00:58:52Z">
+      <nd ref="4464982895"/>
+      <nd ref="5015921512"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="10"/>
+    </way>
+    <way id="652543128" version="4" timestamp="2020-02-18T00:59:56Z">
+      <nd ref="5015921512"/>
+      <nd ref="4464982899"/>
+      <nd ref="4466359824"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="4"/>
+      <tag k="motorcycle" v="no @ (06:00-22:00)"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="10"/>
+    </way>
+    <way id="652543129" version="5" timestamp="2020-02-18T01:01:17Z">
+      <nd ref="6158123025"/>
+      <nd ref="4464982874"/>
+      <nd ref="4464982877"/>
+      <nd ref="4464982879"/>
+      <nd ref="4464982881"/>
+      <nd ref="4464982883"/>
+      <nd ref="4464982886"/>
+      <nd ref="4464982888"/>
+      <nd ref="4464982890"/>
+      <nd ref="4464982893"/>
+      <nd ref="4464982894"/>
+      <nd ref="4464982895"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="3"/>
+      <tag k="motorcycle" v="no @ (06:00-22:00)"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="10"/>
+    </way>
+    <way id="652543130" version="4" timestamp="2020-02-18T01:02:31Z">
+      <nd ref="4466359824"/>
+      <nd ref="4464982921"/>
+      <nd ref="4464982923"/>
+      <nd ref="4464982925"/>
+      <nd ref="4464982928"/>
+      <nd ref="4464982930"/>
+      <nd ref="4464982932"/>
+      <nd ref="4464982934"/>
+      <nd ref="5012052473"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="4"/>
+      <tag k="motorcycle" v="no @ (06:00-22:00)"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="10"/>
+    </way>
+    <way id="653513198" version="9" timestamp="2020-03-10T01:45:58Z">
+      <nd ref="5012052473"/>
+      <nd ref="7243827207"/>
+      <nd ref="7243827208"/>
+      <nd ref="7117371176"/>
+      <nd ref="6615820218"/>
+      <tag k="est_width" v="5.21"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="3"/>
+      <tag k="motorcycle" v="no @ (06:00-22:00)"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="657501850" version="3" timestamp="2020-03-13T01:54:17Z">
+      <nd ref="5201465506"/>
+      <nd ref="4464982862"/>
+      <nd ref="309713349"/>
+      <nd ref="4464982866"/>
+      <nd ref="4464982867"/>
+      <nd ref="4464982869"/>
+      <nd ref="4464982872"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="3"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="10"/>
+    </way>
+    <way id="673794227" version="1" timestamp="2019-03-01T06:21:57Z">
+      <nd ref="6309981402"/>
+      <nd ref="1275776708"/>
+      <tag k="highway" v="primary"/>
+    </way>
+  </modify>
+  <create>
+    <way id="673802569" version="2" timestamp="2019-06-26T08:51:57Z">
+      <nd ref="5430745315"/>
+      <nd ref="6310064636"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="673802570" version="2" timestamp="2019-06-26T08:51:57Z">
+      <nd ref="5430745314"/>
+      <nd ref="6310064635"/>
+      <tag k="highway" v="residential"/>
+    </way>
+  </create>
+  <modify>
+    <way id="674604141" version="1" timestamp="2019-03-05T08:20:53Z">
+      <nd ref="3257395585"/>
+      <nd ref="6317691192"/>
+      <nd ref="4506073973"/>
+      <tag k="highway" v="service"/>
+    </way>
+    <way id="674852822" version="2" timestamp="2020-03-05T03:50:21Z">
+      <nd ref="6320011367"/>
+      <nd ref="6320011366"/>
+      <nd ref="6320011365"/>
+      <nd ref="6320011364"/>
+      <tag k="highway" v="service"/>
+      <tag k="service" v="parking_aisle"/>
+    </way>
+    <way id="697161900" version="7" timestamp="2020-11-18T00:20:43Z" uid="6" user="Iyan" changeset="1744">
+      <nd ref="6547820618"/>
+      <nd ref="7129444105"/>
+      <nd ref="6862187881"/>
+      <nd ref="6862187880"/>
+      <nd ref="6862187879"/>
+      <nd ref="6862187878"/>
+      <nd ref="6862187877"/>
+      <tag k="access" v="permissive"/>
+      <tag k="highway" v="service"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="service" v="parking_aisle"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+  </modify>
+  <create>
+    <way id="699302740" version="2" timestamp="2020-01-24T20:28:51Z">
+      <nd ref="1695825289"/>
+      <nd ref="1695800355"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="motorcar" v="no"/>
+      <tag k="name" v="Jalan Tj. 27"/>
+    </way>
+    <way id="702371806" version="1" timestamp="2019-07-08T07:55:07Z">
+      <nd ref="5447342675"/>
+      <nd ref="6544292495"/>
+      <tag k="highway" v="residential"/>
+      <tag k="import" v="yes"/>
+      <tag k="source" v="digitalglobe"/>
+    </way>
+  </create>
+  <modify>
+    <way id="708398622" version="2" timestamp="2019-12-03T05:43:57Z">
+      <nd ref="3350816975"/>
+      <nd ref="579472849"/>
+      <nd ref="579472844"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398625" version="3" timestamp="2020-03-05T03:50:21Z">
+      <nd ref="135625782"/>
+      <nd ref="3350816978"/>
+      <nd ref="6317770329"/>
+      <nd ref="3257395573"/>
+      <nd ref="3350816992"/>
+      <nd ref="135625780"/>
+      <nd ref="1376432558"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan K.H. Noer Ali"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398629" version="1" timestamp="2019-07-29T06:09:33Z">
+      <nd ref="1376432558"/>
+      <nd ref="1361319106"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398631" version="1" timestamp="2019-07-29T06:09:33Z">
+      <nd ref="1361319106"/>
+      <nd ref="1376432548"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398634" version="1" timestamp="2019-07-29T06:09:33Z">
+      <nd ref="1376432548"/>
+      <nd ref="3350817138"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398636" version="2" timestamp="2019-08-16T04:32:03Z">
+      <nd ref="3350817138"/>
+      <nd ref="6714701604"/>
+      <nd ref="135625778"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398640" version="1" timestamp="2019-07-29T06:09:33Z">
+      <nd ref="135625778"/>
+      <nd ref="2640677001"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398641" version="1" timestamp="2019-07-29T06:09:33Z">
+      <nd ref="2640677001"/>
+      <nd ref="135625776"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398644" version="1" timestamp="2019-07-29T06:09:33Z">
+      <nd ref="135625776"/>
+      <nd ref="5490535899"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398646" version="1" timestamp="2019-07-29T06:09:33Z">
+      <nd ref="5490535899"/>
+      <nd ref="3350817133"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="708398648" version="1" timestamp="2019-07-29T06:09:33Z">
+      <nd ref="3350817133"/>
+      <nd ref="3350817128"/>
+      <tag k="highway" v="primary"/>
+      <tag k="name" v="Jalan Kalimalang"/>
+      <tag k="oneway" v="yes"/>
+    </way>
+    <way id="709230241" version="1" timestamp="2019-07-31T12:55:47Z">
+      <nd ref="4994324746"/>
+      <nd ref="4994324745"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Sejahtera IB"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="width" v="1.5"/>
+    </way>
+    <way id="709230242" version="2" timestamp="2019-12-06T13:17:45Z">
+      <nd ref="4994323973"/>
+      <nd ref="7038437005"/>
+      <nd ref="4994324747"/>
+      <nd ref="4994324748"/>
+      <nd ref="6330569140"/>
+      <nd ref="6330569139"/>
+      <nd ref="6330569138"/>
+      <nd ref="4994324746"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Sejahtera I"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="width" v="1.5"/>
+    </way>
+    <way id="718240680" version="1" timestamp="2019-08-26T03:02:24Z">
+      <nd ref="3257395599"/>
+      <nd ref="6320011899"/>
+      <nd ref="3257395605"/>
+      <nd ref="6745049917"/>
+      <nd ref="6745049918"/>
+      <nd ref="3257395607"/>
+      <nd ref="6745049922"/>
+      <nd ref="6320011901"/>
+      <nd ref="6745049919"/>
+      <nd ref="6745049921"/>
+      <nd ref="6745049920"/>
+      <nd ref="6317691188"/>
+      <nd ref="3257395597"/>
+      <tag k="highway" v="tertiary"/>
+      <tag k="name" v="Kemakmuran"/>
+    </way>
+    <way id="732406892" version="1" timestamp="2019-10-07T16:47:34Z">
+      <nd ref="6858432307"/>
+      <nd ref="4822370348"/>
+      <nd ref="4822370351"/>
+      <nd ref="6858432309"/>
+      <nd ref="6858432308"/>
+      <tag k="highway" v="residential"/>
+    </way>
+    <way id="735051380" version="1" timestamp="2019-10-16T05:13:14Z">
+      <nd ref="6330522137"/>
+      <nd ref="1695825283"/>
+      <nd ref="1695825284"/>
+      <nd ref="1695825285"/>
+      <nd ref="1695825286"/>
+      <nd ref="1695825287"/>
+      <nd ref="1695825288"/>
+      <nd ref="1695825289"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Masjid Nurul Islam"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="2"/>
+    </way>
+    <way id="747464971" version="2" timestamp="2019-11-21T19:20:05Z">
+      <nd ref="5028161850"/>
+      <nd ref="5300344300"/>
+      <nd ref="6997190573"/>
+      <nd ref="5300344299"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="layer" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747464972" version="2" timestamp="2019-11-21T19:20:05Z">
+      <nd ref="6994005777"/>
+      <nd ref="5950065544"/>
+      <nd ref="5300345536"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="layer" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747464975" version="2" timestamp="2020-01-13T23:19:06Z">
+      <nd ref="6994034054"/>
+      <nd ref="6994034053"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="surface" v="concrete"/>
+    </way>
+    <way id="747464976" version="2" timestamp="2020-01-13T23:19:06Z">
+      <nd ref="6994005778"/>
+      <nd ref="6994034002"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="surface" v="concrete"/>
+    </way>
+    <way id="747464977" version="2" timestamp="2020-01-13T23:19:06Z">
+      <nd ref="6994034002"/>
+      <nd ref="6994034001"/>
+      <nd ref="6994005779"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="surface" v="concrete"/>
+    </way>
+    <way id="747464978" version="2" timestamp="2020-01-13T23:19:06Z">
+      <nd ref="6994034004"/>
+      <nd ref="6994034003"/>
+      <nd ref="6994005778"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="surface" v="concrete"/>
+    </way>
+    <way id="747464979" version="3" timestamp="2020-01-16T19:06:49Z">
+      <nd ref="6994005780"/>
+      <nd ref="6994034032"/>
+      <nd ref="6994034031"/>
+      <nd ref="7137373851"/>
+      <nd ref="6994034030"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="747464980" version="3" timestamp="2020-01-16T19:06:49Z">
+      <nd ref="5489996144"/>
+      <nd ref="7137373860"/>
+      <nd ref="6994034029"/>
+      <nd ref="6994034028"/>
+      <nd ref="6994005781"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="747464982" version="2" timestamp="2020-01-13T23:19:06Z">
+      <nd ref="6994005779"/>
+      <nd ref="6994034000"/>
+      <nd ref="6994033999"/>
+      <nd ref="6994033998"/>
+      <nd ref="6994033997"/>
+      <nd ref="6994033996"/>
+      <nd ref="6994033995"/>
+      <nd ref="6994033994"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="747464983" version="2" timestamp="2020-01-13T23:19:06Z">
+      <nd ref="6994005781"/>
+      <nd ref="6994033994"/>
+      <nd ref="6994033991"/>
+      <nd ref="6994034027"/>
+      <nd ref="6994034026"/>
+      <nd ref="6994034025"/>
+      <nd ref="6994034024"/>
+      <nd ref="6994034023"/>
+      <nd ref="6994034022"/>
+      <nd ref="6994034021"/>
+      <nd ref="6994034020"/>
+      <nd ref="6994034019"/>
+      <nd ref="6994034018"/>
+      <nd ref="6994034017"/>
+      <nd ref="6994034016"/>
+      <nd ref="6994034015"/>
+      <nd ref="6994034014"/>
+      <nd ref="6994034013"/>
+      <nd ref="6994034012"/>
+      <nd ref="6994034011"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="747464984" version="2" timestamp="2020-01-13T23:19:06Z">
+      <nd ref="6994034053"/>
+      <nd ref="6994034052"/>
+      <nd ref="6994034051"/>
+      <nd ref="6994034050"/>
+      <nd ref="6994034049"/>
+      <nd ref="6994034048"/>
+      <nd ref="6994034047"/>
+      <nd ref="6994034046"/>
+      <nd ref="6994034045"/>
+      <nd ref="6994034044"/>
+      <nd ref="6994034043"/>
+      <nd ref="6994034042"/>
+      <nd ref="6994034041"/>
+      <nd ref="6994034040"/>
+      <nd ref="6994034039"/>
+      <nd ref="6994034038"/>
+      <nd ref="6994034037"/>
+      <nd ref="6994034036"/>
+      <nd ref="6994034035"/>
+      <nd ref="6994034034"/>
+      <nd ref="6994034033"/>
+      <nd ref="6994033993"/>
+      <nd ref="6994005780"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="747464985" version="2" timestamp="2020-01-13T23:19:06Z">
+      <nd ref="6994034194"/>
+      <nd ref="6994034004"/>
+      <nd ref="6994034195"/>
+      <nd ref="6994034196"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747464986" version="2" timestamp="2020-01-13T23:19:06Z">
+      <nd ref="6994034093"/>
+      <nd ref="6994034094"/>
+      <nd ref="6994034054"/>
+      <nd ref="6994034095"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="concrete"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747464987" version="3" timestamp="2020-01-16T19:19:26Z">
+      <nd ref="6994034055"/>
+      <nd ref="6994034187"/>
+      <nd ref="6994034188"/>
+      <nd ref="6994034189"/>
+      <nd ref="6994034190"/>
+      <nd ref="6994034191"/>
+      <nd ref="6994034192"/>
+      <nd ref="6994034193"/>
+      <nd ref="6994034194"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="layer" v="1"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747464988" version="3" timestamp="2020-01-16T19:19:26Z">
+      <nd ref="6994034095"/>
+      <nd ref="6994034096"/>
+      <nd ref="6994034097"/>
+      <nd ref="6994034098"/>
+      <nd ref="6994034099"/>
+      <nd ref="6994034100"/>
+      <nd ref="6994034101"/>
+      <nd ref="6994034102"/>
+      <nd ref="6994034056"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="layer" v="1"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747897761" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="6997190544"/>
+      <nd ref="6997190543"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897762" version="3" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="6997190543"/>
+      <nd ref="5950065482"/>
+      <nd ref="7061576434"/>
+      <nd ref="5950065543"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897768" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065493"/>
+      <nd ref="5950065492"/>
+      <nd ref="5950065491"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897769" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065497"/>
+      <nd ref="5950065496"/>
+      <nd ref="5950065495"/>
+      <nd ref="5950065494"/>
+      <nd ref="5950065493"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897770" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="6997190559"/>
+      <nd ref="6997190571"/>
+      <nd ref="6997190560"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897771" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="6997190560"/>
+      <nd ref="6997190566"/>
+      <nd ref="6997190565"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897775" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065460"/>
+      <nd ref="5950065459"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897776" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065459"/>
+      <nd ref="5950065458"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897777" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065458"/>
+      <nd ref="5950065457"/>
+      <nd ref="5950065456"/>
+      <nd ref="5950065455"/>
+      <nd ref="5950065454"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897778" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065454"/>
+      <nd ref="5950065453"/>
+      <nd ref="5950065452"/>
+      <nd ref="5950065451"/>
+      <nd ref="5950065450"/>
+      <nd ref="6997190559"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897779" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065544"/>
+      <nd ref="5950065497"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="2"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897780" version="1" timestamp="2019-11-21T19:20:05Z">
+      <nd ref="5300345536"/>
+      <nd ref="6997190572"/>
+      <nd ref="6997220602"/>
+      <nd ref="6997190578"/>
+      <nd ref="6997190576"/>
+      <nd ref="6997190575"/>
+      <nd ref="5028161852"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="layer" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747897781" version="1" timestamp="2019-11-21T19:20:05Z">
+      <nd ref="5300344299"/>
+      <nd ref="5950065547"/>
+      <nd ref="6994005776"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="layer" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747897783" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="6997190583"/>
+      <nd ref="6997220585"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897784" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="6997220589"/>
+      <nd ref="6997190584"/>
+      <nd ref="6997190583"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897794" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065562"/>
+      <nd ref="5950065561"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="1"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897795" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065561"/>
+      <nd ref="5950065560"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897796" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065560"/>
+      <nd ref="5950065559"/>
+      <nd ref="5950065558"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="-1"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+      <tag k="tunnel" v="yes"/>
+    </way>
+    <way id="747897797" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065558"/>
+      <nd ref="5950065557"/>
+      <nd ref="5950065556"/>
+      <nd ref="5950065555"/>
+      <nd ref="5950065554"/>
+      <nd ref="5950065553"/>
+      <nd ref="5950065551"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897798" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="6997220585"/>
+      <nd ref="6997220586"/>
+      <nd ref="6997220592"/>
+      <nd ref="6997220601"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897799" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065528"/>
+      <nd ref="5950065527"/>
+      <nd ref="5950065526"/>
+      <nd ref="5950065525"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897800" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065550"/>
+      <nd ref="5950065525"/>
+      <nd ref="6997190556"/>
+      <nd ref="5300344298"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747897801" version="2" timestamp="2020-01-22T20:40:22Z">
+      <nd ref="5950065551"/>
+      <nd ref="5950065550"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="layer" v="2"/>
+      <tag k="note" v="Simpang Susun Kunciran"/>
+    </way>
+    <way id="747947231" version="1" timestamp="2019-11-22T00:35:35Z">
+      <nd ref="6997694034"/>
+      <nd ref="6994034142"/>
+      <nd ref="6997694036"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="layer" v="1"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747947232" version="1" timestamp="2019-11-22T00:35:35Z">
+      <nd ref="6997694037"/>
+      <nd ref="6994034147"/>
+      <nd ref="6997694035"/>
+      <tag k="bridge" v="yes"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="layer" v="1"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747947233" version="1" timestamp="2019-11-22T00:35:35Z">
+      <nd ref="6997694036"/>
+      <nd ref="6994034143"/>
+      <nd ref="6994034144"/>
+      <nd ref="5950065464"/>
+      <nd ref="5300345535"/>
+      <nd ref="5950065545"/>
+      <nd ref="6994005777"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747947234" version="1" timestamp="2019-11-22T00:35:35Z">
+      <nd ref="6994005776"/>
+      <nd ref="5950065546"/>
+      <nd ref="5950065548"/>
+      <nd ref="5300344298"/>
+      <nd ref="6994034145"/>
+      <nd ref="6994034146"/>
+      <nd ref="6997694037"/>
+      <tag k="construction" v="motorway"/>
+      <tag k="highway" v="construction"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motor_vehicle" v="no"/>
+      <tag k="name" v="Jalan Tol Serpong–Cinere"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="toll" v="yes"/>
+    </way>
+    <way id="747947241" version="5" timestamp="2020-02-12T13:23:00Z">
+      <nd ref="3081363064"/>
+      <nd ref="7139674277"/>
+      <nd ref="7139674275"/>
+      <nd ref="7139674276"/>
+      <nd ref="3081363068"/>
+      <tag k="est_width" v="6.11"/>
+      <tag k="highway" v="tertiary"/>
+      <tag k="lane_markings" v="no"/>
+      <tag k="lanes" v="2"/>
+      <tag k="name" v="Jalan Mujair VI"/>
+      <tag k="surface" v="concrete"/>
+    </way>
+    <way id="751649670" version="4" timestamp="2020-02-27T01:36:14Z">
+      <nd ref="309711985"/>
+      <nd ref="4464982900"/>
+      <tag k="highway" v="primary"/>
+      <tag k="lane_markings" v="yes"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="no"/>
+      <tag k="name" v="Jalan Jenderal Sudirman"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="7.9"/>
+    </way>
+    <way id="753189385" version="2" timestamp="2019-12-11T13:50:36Z">
+      <nd ref="351581993"/>
+      <nd ref="7049487488"/>
+      <nd ref="2427543752"/>
+      <nd ref="7049487487"/>
+      <nd ref="2427543753"/>
+      <nd ref="2427542908"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Gang Bali Matraman"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="754514459" version="2" timestamp="2020-01-08T15:43:05Z">
+      <nd ref="4822500406"/>
+      <nd ref="4822500418"/>
+      <nd ref="7117315226"/>
+      <nd ref="4822500407"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan Ros Barat"/>
+      <tag k="oneway" v="no"/>
+      <tag k="sidewalk" v="none"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="755116394" version="1" timestamp="2019-12-13T08:25:01Z">
+      <nd ref="4822370372"/>
+      <nd ref="4822370359"/>
+      <nd ref="4822370351"/>
+      <tag k="highway" v="living_street"/>
+      <tag k="lanes" v="1"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="oneway" v="no"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="1"/>
+    </way>
+    <way id="763977515" version="1" timestamp="2020-01-16T19:06:49Z">
+      <nd ref="7137373855"/>
+      <nd ref="7137373854"/>
+      <nd ref="7137373853"/>
+      <nd ref="7137373852"/>
+      <nd ref="7137373851"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="763977516" version="1" timestamp="2020-01-16T19:06:49Z">
+      <nd ref="7137373860"/>
+      <nd ref="7137373859"/>
+      <nd ref="7137373858"/>
+      <nd ref="7137373857"/>
+      <nd ref="7137373856"/>
+      <tag k="construction" v="motorway_link"/>
+      <tag k="highway" v="construction"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="surface" v="asphalt"/>
+    </way>
+  </modify>
+  <create>
+    <way id="764225467" version="1" timestamp="2020-01-17T17:03:31Z">
+      <nd ref="7139674275"/>
+      <nd ref="7139674271"/>
+      <nd ref="7139674270"/>
+      <nd ref="7139711938"/>
+      <nd ref="7139711937"/>
+      <nd ref="7139711936"/>
+      <nd ref="7139711935"/>
+      <nd ref="7139711934"/>
+      <nd ref="7139711933"/>
+      <nd ref="7139711932"/>
+      <nd ref="7132096892"/>
+      <nd ref="7132096889"/>
+      <nd ref="7139711931"/>
+      <nd ref="7139711930"/>
+      <nd ref="7139711929"/>
+      <tag k="highway" v="service"/>
+      <tag k="note" v="remove after construction is complete and dual carriageway is functioning"/>
+      <tag k="surface" v="unpaved"/>
+    </way>
+  </create>
+  <modify>
+    <way id="765642085" version="1" timestamp="2020-01-22T09:31:07Z">
+      <nd ref="191407033"/>
+      <nd ref="353574040"/>
+      <tag k="highway" v="secondary"/>
+      <tag k="lanes" v="2"/>
+      <tag k="motorcycle" v="yes"/>
+      <tag k="name" v="Jalan KH. Wahid Hasyim"/>
+      <tag k="smoothness" v="good"/>
+      <tag k="source" v="HOT_InAWARESurvey_2017"/>
+      <tag k="surface" v="asphalt"/>
+      <tag k="width" v="6"/>
+    </way>
+    <way id="765908031" version="1" timestamp="2020-01-23T08:04:29Z">
+      <nd ref="7153251805"/>
+      <nd ref="4506073980"/>
+      <nd ref="506083937"/>
+      <tag k="highway" v="trunk"/>
+      <tag k="name" v="Jalan Ahmad Yani"/>
+      <tag k="oneway" v="yes"/>
+      <tag k="ref" v="1"/>
+    </way>
+  </modify>
+  <delete>
+    <relation id="541" version="1" timestamp="2021-04-21T03:36:12Z" uid="9" user="yuri" changeset="3400">
+      <member type="way" ref="562444271" role="from"/>
+      <member type="way" ref="4068" role="to"/>
+      <member type="node" ref="579472844" role="via"/>
+      <tag k="restriction" v="no_right_turn"/>
+      <tag k="type" v="restriction"/>
+    </relation>
+  </delete>
+</osmChange>
